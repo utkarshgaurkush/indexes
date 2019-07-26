@@ -13,24 +13,24 @@
         -   Private Archives
         -   Foreign Repositories
         </details>
-    -   Biographies, Memoirs and Travel Accounts 9
-    -   Newspapers and Journals 10
-    -   Oral Evidence 11
-    -   Creative Literature 11
-    -   Painting 12
-    -   Summary 14
+    -   Biographies, Memoirs and Travel Accounts
+    -   Newspapers and Journals
+    -   Oral Evidence
+    -   Creative Literature
+    -   Painting
+    -   Summary
     </details>
 
 2.  <details><summary>Major Approaches to the History of Modern India </summary>
 
-    -   Colonial Approach/ Historiography 16
-    -   Nationalist Historiography/ Approach 16
-    -   Marxist Historiography/ Approach 17
-    -   Subaltern Approach/ Historiography 18
-    -   Communalist Approach 19
-    -   Cambridge School 20
-    -   Liberal and Neo-Liberal Interpretations 20
-    -   Feminist Historiography 20
+    -   Colonial Approach/ Historiography
+    -   Nationalist Historiography/ Approach 
+    -   Marxist Historiography/ Approach 
+    -   Subaltern Approach/ Historiography 
+    -   Communalist Approach 
+    -   Cambridge School 
+    -   Liberal and Neo-Liberal Interpretations
+    -   Feminist Historiography 
     -   Summary
     </details>    
 
@@ -38,164 +38,160 @@
 
     -   <details><summary>The Portuguese in India</summary>
 
-        -   The Quest for and Discovery of a 25
-        -   Sea Route to India
-        -   From Trading to Ruling 27
-        -   Portuguese State 31
-        -   Portuguese Lose Favour with the Mughals 34
-        -   Decline of the Portuguese 36
-        -   Significance of the Portuguese 37
+        -   The Quest for and Discovery of a Sea Route to India
+        -   From Trading to Ruling
+        -   Portuguese State
+        -   Portuguese Lose Favour with the Mughals
+        -   Decline of the Portuguese
+        -   Significance of the Portuguese
         </details>
     -   <details><summary>The Dutch</summary>
         
-        -   Dutch Settlements 39
-        -   Anglo-Dutch Rivalry 40
-        -   Decline of the Dutch in India 41
+        -   Dutch Settlements
+        -   Anglo-Dutch Rivalry
+        -   Decline of the Dutch in India
         </details>
     -   <details><summary>The English</summary>
         
-        -   Charter of Queen Elizabeth I 41
-        -   Progress of the English Company 42
+        -   Charter of Queen Elizabeth I
+        -   Progress of the English Company
         </summary>
     -   <details><summary>The French</summary>
         
-        -   Foundation of French Centres in India 46
-        -   The Anglo-French Struggle for Supremacy: the 48
-        -   Carnatic Wars
-        -   Causes for the English Success and the 55
-        -   French Failure    
+        -   Foundation of French Centres in India 
+        -   The Anglo-French Struggle for Supremacy: the Carnatic Wars
+        -   Causes for the English Success and the  French Failure    
         </details>
-    -   The Danes 58
+    -   The Danes
     -   <details><summary>Why the English Succeeded against Other European Powers</summary>
 
-        -   Structure and Nature of the Trading Companies 58
-        -   Naval Superiority 59
-        -   Industrial Revolution 59
-        -   Military Skill and Discipline 59
-        -   Stable Government 59
-        -   Lesser Zeal for Religion 60
-        -   Use of Debt Market 60
+        -   Structure and Nature of the Trading Companies
+        -   Naval Superiority
+        -   Industrial Revolution
+        -   Military Skill and Discipline
+        -   Stable Government
+        -   Lesser Zeal for Religion
+        -   Use of Debt Market
         </details>
-    -   Summary 61
+    -   Summary
     -   Boxes
-        -   Portuguese Rise and Fall 37
-        -   Formative Years of the East India Company 45
-        -   Rise and Fall of Dupleix in India 51
+        -   Portuguese Rise and Fall
+        -   Formative Years of the East India Company
+        -   Rise and Fall of Dupleix in India 
         -   About the Goods in Trade Initially
 
 
 4.  <details><summary>India on the Eve of British Conquest</summary>
 
-    -   <details><summary>Challenges before the Mughals 64</summary>
+    -   <details><summary>Challenges before the Mughals </summary>
 
-        -   External Challenges 64
-        -   Weak Rulers after Aurangzeb—An 67
-        -   Internal Challenge
+        -   External Challenges
+        -   Weak Rulers after Aurangzeb—An Internal Challenge
         </details>
     -   <details><summary>Causes of Decline of Mughal Empire</summary>
 
-        -   Shifting Allegiance of Zamindars 70
-        -   Jagirdari Crisis 70
-        -   Rise of Regional Aspirations 73
+        -   Shifting Allegiance of Zamindars
+        -   Jagirdari Crisis
+        -   Rise of Regional Aspirations
         -   Economic and Administrative Problems
         </details>
-    -   <details><summary>Rise of Regional States 75</summary>
+    -   <details><summary>Rise of Regional States</summary>
 
-        -   Survey of Regional Kingdoms 75
-        -   Nature and Limitations of Regional States 79
+        -   Survey of Regional Kingdoms
+        -   Nature and Limitations of Regional States 
         </details>
     -   <details><summary>Socio-Economic Conditions</summary>
 
-        -   Agriculture 80
-        -   Trade and Industry 80
-        -   Status of Education 82
+        -   Agriculture
+        -   Trade and Industry
+        -   Status of Education
         -   Societal Set-up        
-        -   Development in Art, Architecture and Culture 85
+        -   Development in Art, Architecture and Culture
         </details>
-    -   Summary 86
+    -   Summary 
     -   Boxes
-        -   Why Many Empire-shaking Battles at Panipat? 66
+        -   Why Many Empire-shaking Battles at Panipat?
         -   Causes of the Mughals’ Downfall in a Nutshell        
 5.  <details><summary>Expansion and Consolidation of British Power in India</summary>
 
-    -   The British Imperial History 88
-    -   Was the British Conquest Accidental or Intentional? 88
-    -   When did the British Period Begin in India? 90
+    -   The British Imperial History
+    -   Was the British Conquest Accidental or Intentional?
+    -   When did the British Period Begin in India?
     -   <details><summary>Causes of British Success in India</summary>
 
-        -   Superior Arms, Military and Strategy 91
-        -   Better Military Discipline and Regular Salary 92
-        -   Civil Discipline and Fair Selection System 92
-        -   Brilliant Leadership and Support of Second 92
+        -   Superior Arms, Military and Strategy 
+        -   Better Military Discipline and Regular Salary
+        -   Civil Discipline and Fair Selection System
+        -   Brilliant Leadership and Support of Second
         -   Line Leaders
-        -   Strong Financial Backup 93
-        -   Nationalist Pride 93
+        -   Strong Financial Backup
+        -   Nationalist Pride
         </details>
     -   <details><summary>British Conquest of Bengal</summary>
 
-        -   Bengal on the Eve of British Conquest 93
-        -   Alivardi Khan and the English 94
-        -   Challenges Before Siraj-ud-daula 95
-        -   The Battle of Plassey 95
-        -   Mir Kasim and the Treaty of 1760 97
-        -   The Battle of Buxar 98
-        -   The Treaty of Allahabad 100
-        -   Dual Government in Bengal (1765-72) 101
+        -   Bengal on the Eve of British Conquest
+        -   Alivardi Khan and the English 
+        -   Challenges Before Siraj-ud-daula
+        -   The Battle of Plassey
+        -   Mir Kasim and the Treaty of 1760
+        -   The Battle of Buxar
+        -   The Treaty of Allahabad
+        -   Dual Government in Bengal (1765-72)
         </details>
     -   <details><summary>Mysore’s Resistance to the Company</summary>
 
-        -   The Wodeyar / Mysore Dynasty 102
-        -   Rise of Haidar Ali 102
-        -   First Anglo-Mysore War (1767-69) 103
-        -   Second Anglo-Mysore War (1780-84) 104
-        -   Third Anglo-Mysore War        
-        -   Fourth Anglo-Mysore War 106
-        -   Mysore After Tipu 109
+        -   The Wodeyar / Mysore Dynasty 
+        -   Rise of Haidar Ali
+        -   First Anglo-Mysore War (1767-69) 
+        -   Second Anglo-Mysore War (1780-84) 
+        -   Third Anglo-Mysore War       
+        -   Fourth Anglo-Mysore War 
+        -   Mysore After Tipu 
         </details>
     -   <details><summary>Anglo-Maratha Struggle for Supremacy</summary>
 
-        -   Rise of the Marathas 109
-        -   Entry of the English into Maratha Politics 110
-        -   First Anglo-Maratha War (1775-82) 110
-        -   Second Anglo Maratha War (1803-1805) 113
-        -   Third Anglo-Maratha War (1817-19) 114
-        -   Why the Marathas Lost 116
+        -   Rise of the Marathas
+        -   Entry of the English into Maratha Politics
+        -   First Anglo-Maratha War (1775-82) 
+        -   Second Anglo Maratha War (1803-1805) 
+        -   Third Anglo-Maratha War (1817-19)
+        -   Why the Marathas Lost 
         </details>
     -   <details><summary>Conquest of Sindh</summary>
 
-        -   Rise of Talpuras Amirs 118
-        -   Gradual Ascendancy over Sindh 119
-        -   Criticisms of the Conquest of Sindh 122
+        -   Rise of Talpuras Amirs
+        -   Gradual Ascendancy over Sindh
+        -   Criticisms of the Conquest of Sindh
         </details>
-    -   <details><summary>Conquest of Punjab 123</summary>
+    -   <details><summary>Conquest of Punjab </summary>
 
-        -   Consolidation of Punjab under the Sikhs 123
-        -   Ranjit Singh and the English 124
-        -   Punjab After Ranjit Singh 125
-        -   First Anglo-Sikh War (1845-46) 126
-        -   Second Anglo-Sikh War (1848-49) 128
+        -   Consolidation of Punjab under the Sikhs
+        -   Ranjit Singh and the English
+        -   Punjab After Ranjit Singh
+        -   First Anglo-Sikh War (1845-46) 
+        -   Second Anglo-Sikh War (1848-49)
         -   Significance of the Anglo-Sikh Wars
         </details>
     -   <details><summary>Extension of British Paramountcy Through Administrative Policy</summary>
 
-        -   The Policy of Ring-Fence 130
-        -   Subsidiary Alliance 130
+        -   The Policy of Ring-Fence 
+        -   Subsidiary Alliance 
         -   Doctrine of Lapse
         </details>
     -   <details><summary>Relations of British India with Neighbouring Countries</summary>
         
-        -   Anglo-Bhutanese Relations 136
-        -   Anglo-Nepalese Relations 136
-        -   Anglo-Burmese Relations 137
-        -   Anglo-Tibetan Relations 138
-        -   Anglo-Afghan Relations 139
-        -   John Lawrence and the Policy of 141
+        -   Anglo-Bhutanese Relations
+        -   Anglo-Nepalese Relations
+        -   Anglo-Burmese Relations
+        -   Anglo-Tibetan Relations
+        -   Anglo-Afghan Relations
+        -   John Lawrence and the Policy of 
         -   Masterly Inactivity
-        -   Lytton and the Policy of Proud Reserve 142
+        -   Lytton and the Policy of Proud Reserve 
         </details>
-    -   British India and the North-West Frontier 143
+    -   British India and the North-West Frontier 
     -   Summary
     -   Boxes
-        -   Robert Clive 99
-        -   Estimate of Tipu Sultan 107
+        -   Robert Clive 
+        -   Estimate of Tipu Sultan 
         -   Annexation of Awadh
