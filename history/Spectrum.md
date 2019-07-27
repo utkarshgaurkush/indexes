@@ -1,6 +1,6 @@
 ##  A Brief History of Modern India, Rajiv Ahir
 
-<center> Sources and approaches </center>
+<center> SOURCES AND APPROACHES </center>
 
 1.  <details><summary>Sources for the History of Modern             India</summary>
 
@@ -265,7 +265,7 @@ COMPANY RULE</center>
         -   White Mutiny  
     </details>    
 
-<center>reform movements</center>
+<center>REFORM MOVEMENTS </center>
 
 8.  <details><summary>Socio-Religious Reform Movements:General Features</summary>
 
@@ -326,7 +326,7 @@ COMPANY RULE</center>
         -   Negative Aspects 
     </details>
 
-<center>the struggle begins</center>
+<center>THE STRUGGLE BEGINS</center>
 
 10. <details><summary>Beginning of Modern Nationalism in  India</summary>
 
@@ -371,7 +371,7 @@ COMPANY RULE</center>
     -   Indian Councils Act 1892  
     </details>      
 
-<center>national movement</center>
+<center>NATIONAL MOVEMENT</center>
 
 12. <details><summary>Era of Militant Nationalism (1905-1909)</summary>
 
@@ -527,79 +527,608 @@ COMPANY RULE</center>
     -   Box
         -   Dr Ambedkar and the Simon Commission 400
     </details>
-Chapter 19
-Civil Disobedience Movement and Round 408
-Table Conferences
-The Run-up to Civil Disobedience Movement 408
-Calcutta Session of Congress 408
-Political Activity during 1929 409
-Irwin’s Declaration (October 31, 1929) 409
-Delhi Manifesto 410
-Lahore Congress and Purna Swaraj 410
-January 26, 1930: the Independence Pledge 412
-Civil Disobedience Movement—the Salt Satyagraha 413
-and Other Upsurges
-Gandhi’s Eleven Demands 413
-Why Salt was Chosen as the Important Theme 414
-Dandi March (March 12-April 6, 1930) 414
-More At @Aj_ebooks
-(xx)
-Contents
-Spread of Salt Disobedience 415
-Impact of Agitation 420
-Extent of Mass Participation 420
-Government Response—Efforts for Truce 421
-Gandhi-Irwin Pact 422
-Evaluation of Civil Disobedience Movement 423
-Karachi Congress Session—1931 425
-Congress Resolutions at Karachi 425
-The Round Table Conferences 426
-First Round Table Conference 426
-Second Round Table Conference 428
-Third Round Table Conference 431
-Civil Disobedience Resumed 432
-During Truce Period (March-December 1931) 432
-Changed Government Attitude After Second RTC 432
-Government Action 433
-Popular Response 433
-Communal Award and Poona Pact 434
-Main Provisions of the Communal Award 435
-Congress Stand 436
-Gandhi’s Response 436
-Poona Pact 437
-Impact of Poona Pact on Dalits 437
-Gandhi’s Harijan Campaign and thoughts on Caste 438
-Ideological Differences and Similarities between 441
-Gandhi and Ambedkar
-Summary 445
-Chapter 20
-Debates on the Future Strategy after Civil 448
-Disobedience Movement
-The First Stage Debate 448
-Nehru’s Vision 449
-Nehru’s Opposition to Struggle-
-Truce-Struggle Strategy 450
-Finally, Yes to Council Entry 450
-More At @Aj_ebooks
-(xxi)
-Contents
-Government of India Act, 1935 451
-Main Features 451
-Evaluation of the Act 454
-Nationalists’ Response 455
-The Second Stage Debate 455
-Divided Opinion 456
-Gandhi’s Position 457
-Congress Manifesto for Elections 457
-Congress’ Performance 458
-Summary 458
-Chapter 21
-Congress Rule in Provinces 459
-Gandhi’s Advice 459
-Work under Congress Ministries 459
-Civil Liberties 460
-Agrarian Reforms 460
-Attitude Towards Labour 461
-Social Welfare Reforms 462
-Evaluation 462
-Summary 464
+
+19. <details><summary>Civil Disobedience Movement and Round Table Conferences</summary>
+
+    -   The Run-up to Civil Disobedience Movement 
+        -   Calcutta Session of Congress 
+        -   Political Activity during 1929 
+        -   Irwin’s Declaration (October 31, 1929) 
+        -   Delhi Manifesto 
+        -   Lahore Congress and Purna Swaraj 
+        -   January 26, 1930: the Independence Pledge 
+    -   Civil Disobedience Movement—the Salt Satyagraha and Other Upsurges
+        -   Gandhi’s Eleven Demands
+        -   Why Salt was Chosen as the Important Theme 
+        -   Dandi March (March 12-April 6, 1930) 
+        -   Spread of Salt Disobedience 
+        -   Impact of Agitation 
+        -   Extent of Mass Participation 
+        -   Government Response—Efforts for Truce 
+        -   Gandhi-Irwin Pact 
+        -   Evaluation of Civil Disobedience Movement 
+    -   Karachi Congress Session—1931 
+        -   Congress Resolutions at Karachi 
+    -   The Round Table Conferences 
+        -   First Round Table Conference 
+        -   Second Round Table Conference 
+        -   Third Round Table Conference 
+    -   Civil Disobedience Resumed 
+        -   During Truce Period (March-December 1931) 
+        -   Changed Government Attitude After Second RTC 
+        -   Government Action 
+        -   Popular Response 
+    -   Communal Award and Poona Pact 
+        -   Main Provisions of the Communal Award 
+        -   Congress Stand 
+        -   Gandhi’s Response 
+        -   Poona Pact 
+        -   Impact of Poona Pact on Dalits 
+    -   Gandhi’s Harijan Campaign and thoughts on Caste 
+    -   Ideological Differences and Similarities between 
+    -   Gandhi and Ambedkar
+    -   Summary 
+    </details>
+
+20. <details><summary>Debates on the Future Strategy after Civil Disobedience Movement</summary>
+
+    -   The First Stage Debate 
+        -   Nehru’s Vision 
+        -   Nehru’s Opposition to Struggle-Truce-Struggle Strategy 
+        -   Finally, Yes to Council Entry 
+    -   Government of India Act, 1935 
+        -   Main Features 
+        -   Evaluation of the Act 
+        -   Nationalists’ Response 
+    -   The Second Stage Debate 
+        -   Divided Opinion 
+        -   Gandhi’s Position 
+        -   Congress Manifesto for Elections 
+        -   Congress’ Performance 
+    -   Summary 
+    </details>
+
+21. <details><summary>Congress Rule in Provinces</summary>
+
+    -   Gandhi’s Advice
+    -   Work under Congress Ministries 
+        -   Civil Liberties 
+        -   Agrarian Reforms 
+        -   Attitude Towards Labour 
+        -   Social Welfare Reforms 
+    -   Evaluation 
+    -   Summary 
+    </details>
+
+<center>TOWARDS FREEDOM AND PARTITION 1939-1947</center>
+
+22. <details><summary>Nationalist Response in the Wake of World War II </summary>
+
+    -   Congress Crisis on Method of Struggle 
+        -   Haripura and Tripuri Sessions: Subhash 
+        -   Bose’s Views
+    -   Gandhi and Bose: Ideological Differences 
+        -   Non-Violence versus Militant Approach 
+        -   Means and Ends 
+        -   Form of Government 
+        -   Militarism 
+        -   Ideas on Economy 
+        -   Religion 
+        -   Caste and Untouchability 
+        -   Women 
+        -   Education 
+    -   Second World War and Nationalistic Response 
+        -   Congress Offer to Viceroy 
+        -   CWC Meeting at Wardha 
+    -   Government Attitude and Congress 
+    -   Ministries’ Resignation
+        -   Government’s Hidden Agenda 
+    -   August Offer 
+        -   Responses 
+        -   Evaluation 
+    -   Individual Satyagrahas 
+    -   Gandhi Designates Nehru as his Successor 
+    -   Cripps Mission 
+        -   Why Cripps Mission was Sent 
+        -   Main Proposals 
+        -   Departures from the Past and Implications 
+        -   Why Cripps Mission Failed 
+    -   Summary 
+    </details>
+
+23. <details><summary>Quit India Movement, Demand for Pakistan and the INA </summary>
+
+    -   Quit India Movement 
+        -   Why Start a Struggle Now 
+        -   The ‘Quit India’ Resolution 
+        -   Gandhi’s General Instructions to 
+        -   Different Sections
+        -   Spread of the Movement 
+        -   Extent of Mass Participation 
+        -   Government Repression 
+        -   Estimate 
+        -   Gandhi Fasts 
+    -   Famine of 1943 
+    -   Rajagopalachari Formula 
+        -   The Formula 
+        -   Objections 
+    -   Desai-Liaqat Pact 
+    -   Wavell Plan 
+        -   Why the Government was Keen on a Solution Now 
+        -   The Plan 
+        -   Muslim League’s Stand 
+        -   Congress Stand 
+        -   Wavell’s Mistake 
+    -   The Indian National Army and Subhash Bose 
+        -   Origin and First Phase of the Indian National Army 
+    -   Summary 
+    </details>
+
+24. <details><summary>Post-War National Scenario</summary>
+
+    -   Two Strands of National Upsurge 
+        -   Why a Change in Government’s Attitude 
+    -   Congress Election Campaign and INA Trials 
+        -   Election Campaign for Nationalistic Aims 
+        -   Congress Support for INA Prisoners 
+        -   The INA Agitation—A Landmark on Many Counts
+    -   Three Upsurges—Winter of 1945-46 
+        -   Three-Stage Pattern 
+        -   Evaluation of Potential and Impact of the 
+        -   Three Upsurges
+        -   Congress Strategy 
+    -   Election Results 
+        -   Performance of the Congress 
+        -   Muslim League’s Performance 
+        -   Significant Features of Elections 
+    -   The Cabinet Mission 
+        -   Why British Withdrawal Seemed Imminent Now 
+        -   On the Eve of Cabinet Mission Plan 
+        -   Cabinet Mission Arrives 
+        -   Cabinet Mission Plan—Main Points 
+        -   Different Interpretations of the Grouping Clause 
+        -   Main Objections 
+        -   Acceptance and Rejection 
+    -   Communal Holocaust and the Interim Government 
+        -   Changed Government Priorities 
+        -   Interim Government 
+        -   Obstructionist Approach and Ulterior 
+        -   Motives of League
+    -   Birth and Spread of Communalism in India 
+        -   Characteristic Features of Indian Communalism 
+        -   Reasons for Growth of Communalism 
+        -   Evolution of the Two-Nation Theory 
+    -   Summary 
+    -   Box
+        -   Wavell’s “Breakdown Plan” 
+    </details>
+
+25. <details><summary>Independence with Partition</summary>
+
+    -   Attlee’s Statement of February 20, 1947 
+        -   Main Points of Attlee’s Statement 
+        -   Why a Date Fixed by Government for Withdrawal 
+        -   Congress Stand 
+    -   Independence and Partition 
+        -   Mountbatten as the Viceroy 
+        -   Mountbatten Plan, June 3, 1947 
+        -   Indian Independence Act 
+        -   Problems of Early withdrawal 
+        -   Integration of States 
+    -   Inevitability of Partition 
+        -   Why Congress Accepted Partition 
+        -   Gandhi’s Helplessness 
+    -   Summary 
+    -   Box
+        -   Plan Balkan 
+    </details>
+
+
+<center>INDIA UNDER BRITISH RULE: GOVERNANCE AND OTHER ASPECTS  </center>
+
+26. <details><summary>Constitutional, Administrative and Judicial Developments </summary>
+
+    -   Constitutional Development between 1773 and 1858
+        -   The Regulating Act of 1773 
+        -   Pitt’s India Act of 1784 
+        -   The Act of 1786 
+        -   The Charter Act of 1793 
+        -   The Charter Act of 1813 
+        -   The Charter Act of 1833 
+        -   The Charter Act of 1853 
+        -   The Act for Better Government of India, 1858 
+    -   Developments after 1858 till Independence 
+        -   Indian Councils Act, 1861 
+        -   Indian Councils Act, 1892 
+        -   Indian Councils Act, 1909 
+        -   Government of India Act, 1919 
+        -   Simon Commission 
+        -   Government of India Act, 1935 
+    -   Evolution of Civil Services in India 
+        -   Cornwallis’ Role 
+        -   Wellesley’s Role 
+        -   Charter Act of 1853 
+        -   Indian Civil Service Act, 1861 
+        -   Statutory Civil Service 
+        -   Congress Demand and Aitchison Committee 
+        -   Montford Reforms (1919) 
+        -   Lee Commission (1924) 
+        -   Evaluation of Civil Services under British Rule 
+    -   Evolution of Police System in Modern India 
+    -   Military Under the British 
+    -   Development of Judiciary in British India 
+        -   Reforms under Warren Hastings (1772-1785) 
+        -   Reforms under Cornwallis (1786-1793)—Separation of Powers
+        -   Reforms under William Bentinck (1828-1833) 
+        -   Later Developments 
+        -   Evaluation 
+    -   Major Changes in Administrative Structure after 1857
+        -   Genesis of Administrative Changes: 
+        -   New Stage of Colonialism
+    -   Administration: Central, Provincial, Local 
+        -   Central Government 
+        -   Provincial Government 
+        -   Local Bodies 
+
+    </details>
+    
+27. <details><summary>Survey of British Policies in India</summary>
+
+    -   Administrative Policies
+        -   Divide and Rule
+        -   Hostility Towards Educated Indians
+        -   Attitude Towards the Zamindars
+        -   Attitude Towards Social Reforms
+        -   Underdeveloped Social Services
+        -   Labour Legislations
+        -   Restrictions on Freedom of the Press
+        -   White Racism
+        -   British Social and Cultural Policy in India
+        -   Characteristics of New Thought
+        -   Schools of Thought
+        -   Indian Renaissance
+        -   Dilemma Before the Government
+        -   Role of Christian Missionaries
+        -   British Retreat
+    -   British Policy Towards Princely States
+    -   British Foreign Policy in India
+    </details>
+
+28. <details><summary>Economic Impact of British Rule in India</summary>
+
+    -   Deindustrialisation—Ruin of Artisans and Handicraftsmen
+        -   One-Way Free Trade 
+        -   No Steps towards Modern Industrialisation 
+        -   Ruralisation 
+    -   Impoverishment of Peasantry 
+    -   Emergence of Intermediaries, Absentee Landlordism, Ruin of Old Zamindars
+    -   Stagnation and Deterioration of Agriculture 
+    -   Famine and Poverty 
+    -   Commercialisation of Indian Agriculture 
+    -   Destruction of Industry and Late Development of Modern Industry
+    -   Nationalist Critique of Colonial Economy 
+        -   British Policies Making India Poor 
+        -   Growth of Trade and Railways to Help Britain 
+        -   One-Way Free Trade and Tariff Policy 
+        -   Effect of Economic Drain 
+    -   Economic Issue a Stimulant to National Unrest 
+    -   Stages of Colonialism in India 
+        -   First Stage 
+        -   Second Stage 
+        -   Third Stage 
+    -   Summary 
+    -   Box
+        -   Economic Drain 
+    </details>
+29. <details><summary>Development of Indian Press</summary>
+
+    -   Early Regulations
+    -   Struggle by Early Nationalists to Secure
+    -   Press Freedom
+    -   Vernacular Press Act, 1878
+    -   During and After the First World War
+    -   During the Second World War
+    </details>
+
+30. <details><summary>Development of Education</summary>
+
+    -   Under Company Rule
+        -   A Humble beginning by Charter Act of 1813
+        -   Orientalist-Anglicist Controversy
+        -   Lord Macaulay’s Minute (1835)
+        -   Efforts of Thomson
+        -   Wood’s Despatch (1854)
+    -   After the Crown Took Over
+        -   Hunter Education Commission (1882-83)
+        -   Indian Universities Act, 1904
+        -   Government Resolution on Education Policy—1913
+        -   Saddler University Commission (1917-19) 
+        -   Education Under Dyarchy 
+        -   Hartog Committee (1929) 
+        -   Sergeant Plan of Education
+    -   Development of Vernacular Education
+    -   Development of Technical Education
+    -   Evaluation of British Policy on Education 
+    -   Box
+        -   Wardha Scheme of Basic Education (1937) 
+    </details>
+
+31. <details><summary>Peasant Movements 1857-1947</summary>
+
+    -   Peasantry Under Colonialism
+    -   A Survey of Early Peasant Movements
+        -   Indigo Revolt (1859-60)
+        -   Pabna Agrarian Leagues
+        -   Deccan Riots
+    -   Changed Nature of Peasant Movements after 1857 
+    -   Weaknesses 
+    -   Later Movements 
+        -   The Kisan Sabha Movement 
+        -   Eka Movement 
+        -   Mappila Revolt 
+        -   Bardoli Satyagraha 
+        -   The All India Kisan Congress/Sabha 
+        -   Under Congress Ministries 
+    -   Peasant Activity in Provinces 
+        -   During the War 
+        -   Post-War Phase 
+    -   Balance-Sheet of Peasant Movements 
+    </details>
+
+32. <details><summary>The Movement of the Working Class</summary>
+
+    -   Early Efforts
+    -   During Swadeshi Upsurge
+    -   During the First World War and After
+        -   The AITUC
+        -   The Trade Union Act, 1926 
+        -   Late 1920s 
+        -   Meerut Conspiracy Case (1929) 
+        -   Under Congress Ministries
+    -   During and After the Second World War
+    -   After Independence 
+    </details>
+
+<center>INDEPENDENCE AND AFTER</center>
+
+33. <details><summary>Challenges Before the New-born Nation</summary>
+
+    -   First Day of Independent India 
+        -   First Cabinet After Independence 
+    -   Radcliffe’s Boundary Award and the Communal Riots 
+        -   Challenges before the Boundary Commission 
+        -   Regions Most Affected by Riots
+    -   Challenges Associated with Division of Resources
+        -   Division of Civil Government 
+        -   Division of Finances
+        -   Division of Defence Personnel and Equipment
+    -   Assassination of Gandhi
+        -   Rehabilitation and Resettlement of Refugees
+        -   East Punjab 
+        -   Bengal
+        -   Delhi Pact on Minorities
+        -   Centres of Refugee Settlements in India
+    -   Communists and Independence
+        -   Why Communists were Skeptical about
+        Independence?
+    -   Shift from Antagonistic Strategy to
+    Constitutional Democracy
+    </details>
+
+34. <details><summary>The Indian States</summary>
+    
+    1.  The Company’s Struggle for Equality from a Position of Subordination (1740-1765)
+    2.  Policy of Ring Fence (1765-1813)
+    3.  Policy of Subordinate Isolation (1813-1857) 
+    4.  Policy of Subordinate Union (1857-1935)
+    -   Curzon’s Approach 
+    -   Post-1905 
+    5.  Policy of Equal Federation (1935-1947): A Non-Starter
+    6.  Integration and Merger
+    -   Plebiscite and Army Action
+    -   Gradual Integration 
+    </details>
+
+35. <details><summary>Making of the Constitution for India</summary>
+
+    -   Background 
+    -   Constituent Assembly 
+        -   Formation 
+        -   Two Constituent Assemblies: India and Pakistan 
+        -   Evaluation of the Assembly for India
+        -   After Independence
+        -   Work : Committees and Consensus
+    -   Box
+        -   Drafting Committee 693
+    </details>
+
+36. <details><summary>The Evolution of Nationalist Foreign Policy</summary>
+
+    -   1880 to First World War: Anti-Imperialism and Pan-Asian Feeling
+    -   World War I
+    -   1920s and 1930s—Identifying with Socialists
+    -   After 1936—Anti-Fascism 
+    -   After Independence
+        -   Panchsheel and Non-Alignment
+    -   Boxes
+        -   Historical Perspective on Panchsheel
+        -   Five Criteria of Non-alignment
+    </details>
+
+37. <details><summary>First General Elections</summary>
+
+    -   Groundwork for the Elections
+        -   The Election Commission
+        -   Legislation for Polls
+    -   Independent India Goes to the Polls for the First Time
+        -   Challenges
+        -   Parties in the Fray for the Lok Sabha 
+        -   Conduct of Elections
+        -   Results
+    -   Box
+        -   First General Elections: Winners
+    </details>
+
+38. <details><summary>Developments under Nehru’s Leadership (1947-64)</summary>
+
+    -   Political Developments
+        -   Debate Over National Language
+        -   Linguistic Reorganisation of the States
+        -   Growth of other Political Parties 
+        -   An Undemocratic Deed
+    -   Concept of Planning for Economic Development 
+    -   Progress of Science and Technology 
+    -   Social Developments 
+        -   Developments in Education 
+        -   Social Change Under Nehru 
+    -   Foreign Policy
+    -   Relations with Neighbours 
+        -   India and Pakistan 
+        -   India and China 
+        -   India and Nepal 
+        -   India and Bhutan 
+        -   India and Sri Lanka 
+    </details>
+
+39. <details><summary>After Nehru</summary>
+
+    -   <details><summary>Lal Bahadur Shastri</summary> 
+        
+        -   (June 1964 - January 1966)
+        -   early life
+        -   political journey after independence
+        -   economic ideas
+        -   foreign relations
+        -   indo-pak war
+        -   death
+        </details>
+    -   <details><summary>indira gandhi : first phase</summary>
+        
+        -   jan 1966 - march 1977
+        -   early life
+        -   political journey after independence
+        -   developments in the political system
+        -   socio-economic policies
+        -   tackling economic problems
+        -   indo-pak 1971 and bangladesh
+        -   foreign policy and relations with other countries
+        -   smiling buddha
+        </details>
+    -   <details><summary>janata party years</summary>
+
+        -   march 1977 - jan 1980
+        -   morarji desai, first non congress PM
+        -   fresh state assembly elections
+        -   new president of india
+        -   downslide of janata party and rise of congress
+        -   charan singh, pm who never faced parliament
+        -   fresh lok sabha elections and end of janata party rule
+        -   legacy of janata rule
+        -   social changes and movements
+        </details>
+
+    -   <details><summary>indira gandhi: second phase</summary>
+
+        -   jan 1980 - oct 1984
+        -   economy
+        -   foreign relations
+        -   unrest in states
+        -   punjab turmoil and operation blue star
+        -   legacy
+        </details>    
+    -   <details><summary>rajiv gandhi</summary>
+
+        -   oct 1984 - dec 1989
+        -   problems 
+        -   1985 general elections
+        -   tackling the tensions in the states
+        -   positive steps taken on domestic fronts
+        -   negative side
+        -   agrarian unrest
+        -   foreign relations
+        -   general elections of 1989 
+        </details>
+    -   <details><summary>v p singh</summary>
+
+        -   dec 1989 - nov 1990
+        -   kashmir situat5ion worsens
+        -   implementation of mandal commission report
+        -   mandal to mandir: rath yatra and fall of govt.
+        </details>
+    -   <details><summary>chandra shekhar govt.</summary>
+
+        -   nov 1990 - june 1991
+        -   troubled economy
+        -   elections of 1991
+        </details>
+    -   <details><summary>narsimha rao</summary>
+
+        -   jun 1991 - may 1996
+        -   economic reform
+        -   panchayati raj and nagarpalika acts
+        -   handling security issues and space tech
+        -   foreign policy
+        -   negative aspects
+        -   kashmir
+        -   general elections of 1996
+        -   rise of dalit voice
+        </details>
+    -   <details><summary>1996-1999 3 PM</summary>
+
+        -   vajpayee, short term
+        -   united front: deve gowda and i k gujral
+        -   general elections
+        </details>
+    -   <details><summary>NDA</summary>
+
+        -   march 1998 - oct 1999
+        -   pokhran 2 : op. shakti
+        -   lahore summit
+        -   kargil war
+
+        </details>
+    -   <details><summary>nda 2nd stint</summary>
+
+        -   oct 1999 - may 2004
+        -   economic and socal steps
+        -   terrorist trouble and relations with pak
+        -   relations with US
+        -   kashmir elections
+        -   downside
+        -   significance of NDA
+        -   2004 general elections
+        </details>
+    -   <details><summary>UPA</summary>
+
+        -   may 2004 - may 2009, may 2009- may 2014
+        </details>
+    -   <details><summary>general elections and a new NDA govt</summary>
+
+        </details>
+    -   <details><summary></summary>
+
+        </details>                                                                        
+
+
+
+
+
+
+    </details>
+
+
+<center>APPENDICES</center>
+
+1.  Personalities Associated with Specific Movements 735
+    -   Swadeshi Movement 735
+    -   Non-cooperation Movement 739
+    -   Civil Disobedience Movement 743
+    -   Quit India Movement 747
+2. Governors-General and Viceroys of India: Significant Events in their Rule
+3. Indian National Congress Annual Sessions 
+4. Socio-Religious Reform Movements 
+(late 18th to mid-20th century)
+5. Famous Trials of the Nationalist Period 
+6. Caste Movements 
+7. Peasant Movements 
+8. Newspapers and Journals 
