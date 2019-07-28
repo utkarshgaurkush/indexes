@@ -9,15 +9,42 @@
         </details>
     2.  <details><summary>Environment and its components</summary>
 
-        -   abolition of the dual system
-        -   revenue reforms
-        -   reorganisation of the judicial system 
-        -   trade regulations and other reforms
+        -   biotic,abiotic
+        -   external env. of fish
         </details>
     3.  <details><summary>Levels of organization</summary>
 
-        -   provisions of the act
-        -   merits and demerits of the act
+        -   individual
+        -   population
+        -   community
+            -   major
+            -   minor
+            -   structure
+        -   ecosystem
+            -   components
+                -   <details><summary>abiotic</summary>
+
+                    -   energy
+                    -   rainfall
+                    -   temperature
+                    -   atmosphere
+                    -   substratum
+                    -   materials
+                    -   latitude and altitude
+                    </details>
+                -   <details><summary>biotic</summary>
+                    
+                    -   primary producers
+                    -   consumers
+                        -   macro
+                        -   micro
+                    </details>
+            -   classification
+            -   goods and services provided by ecosystem
+            -   ecotone and its characteristics
+            -   niche and types
+        -   biomes and aquatic zones
+        -   biosphere                      
         </details>                                    
     
     </details>
@@ -25,32 +52,57 @@
 
     1.  <details><summary>Energy Flow</summary>
 
-        -   chief causes of war
+        -   trophic level interaction
         </details>
     2.  <details><summary>Food chain</summary>
 
-        -   administrative
-        -   judicial
-        -   police
-        -   other
+        -   grazing
+        -   detritus
         </details>
     3.  <details><summary>Food web</summary>
 
         </details>
     4.  <details><summary>Ecologial pyramid</summary>
 
+        -   numbers
+            -   upright
+            -   inverted
+        -   biomass
+            -   upward 
+            -   inverted
+        -   energy/productivity
         </details>
     5.  <details><summary>Pollutants and trophical level</summary>
 
+        -   bioaccumulation
+        -   biomagnification
         </details>
     6.  <details><summary>Biotic interaction</summary>
 
+        -   mutualism
+        -   commensalism
+        -   competition
+        -   predation and parasitism
+        -   amensalism
+        -   neutralism
         </details>
     7.  <details><summary>Bio-geochemical cycle</summary>
 
+        -   nutrient cycling
+            -   types
+        -   gaseous
+            -   water
+            -   carbon
+            -   nitrogen
+        -   sedimentary
+            -   phosphorus
+            -   sulphur              
         </details>
     8.  <details><summary>Ecological succession</summary>
 
+        -   primary, secondary
+        -   autogenic, allogenic
+        -   autotrophic, heterotrophic
         </details>
     9.  <details><summary></summary>
 
@@ -67,27 +119,73 @@
         </details>
     2.  <details><summary>Forest</summary>
 
-        -   Main Features of Subsidiary Alliance
-        -   Benefits to the British
-        -   Defects of the Subsidiary System
-        -   Enforcement of the Subsidiary System
-            -   Hyderabad
-            -   Oudh
-            -   Tanjore, Surat and the Karnatak
+        -   coniferous(boreal forest)
+        -   temperate deciduous forest
+        -   temperate evergreen
+        -   tropical rain
+        -   tropical seasonal
+        -   subtropical rain
         </details>
     3.  <details><summary>Indian forest types</summary>
 
+        -   importance of forest
+        -   16
+        -   tropical wet evergreen 
+        -   tropical semi-evergreen
+        -   tropical moist deciduous
+        -   littoral and swamp
+        -   tropical dry deciduous
+        -   tropical thorn
+        -   tropical dry evergreen
+        -   sub-tropical broad leaved
+        -   sub-tropical pine
+        -   sub-tropical dry evergreen
+        -   montane wet temperate
+        -   himalayan moist temperate
+        -   himalayan dry temperate
+        -   sub alpine
+        -   moist alpine scrub
+        -   dry alpine scrub
         </details>
     4.  <details><summary>Deforestation</summary>
 
+        -   causes
+            -   shifting cultivation
+            -   development project
+            -   fuel requirements
+            -   raw material requirements
+            -   other causes
+        -   how it affects    
         </details>
     5.  <details><summary>Grassland ecosystem</summary>
 
+        -   types
+            -   semi arid
+            -   dry sub humid
+            -   moist subhumid
+            -   humid montane
+        -   economic importance
+        -   impact of grazing
+        -   role of fire
         </details>
-    6.  <details><summary>thar ecosystem (Thar and cold)</summary>
+    6.  <details><summary>desert ecosystem (Thar and cold)</summary>
 
+        -   adaptations
+            -   plants
+            -   animals
+        -   indian desert - thar desert (hot)
+            -   flora
+            -   fauna
+        -   cold desert/tempearte desert
+            -   characteristics
+            -   biodiversity        
         </details>
     7.  <details><summary>Desertification</summary>
+
+        -   causes
+        -   status of indian desertification
+            -   control measures
+        -   afforestation
 
         </details>
     8.  <details><summary>State of Forest report, 2015</summary>
@@ -105,15 +203,71 @@
 
     1.  <details><summary>Aquatic organism</summary>
 
+        -   <details><summary>groups</summary>
+            
+            -   neuston
+            -   periphyton
+            -   plankton
+            -   nekton
+            -   benthos
+            </details>
+        -   factors limiting the productivity of aquatic habitats
+            -   sunlight
+                -   photic zone
+                -   aphotic zone
+            -   dissolved oxygen
+            -   transparency
+            -   temperature        
+            
         </details>
     2.  <details><summary>Lake ecology</summary>
 
+        -   ageing of lakes
+        -   in india
+        -   general characteristics of oligotrophic and eutrophic lakes
+        -   removal of nutrients from a lake
         </details>
     3.  <details><summary>eutrophication</summary>
 
+        -   types
+            -   natural
+            -   manmade
+        -   sources
+            -   point
+            -   non-point  
+        -   effects
+            -   change in ecosystem
+            -   decreased biodiversity
+            -   new species invasion
+            -   toxicity
+            -   mitigation
+            -   policies            
         </details>
+    4.  <details><summary>harmful algal blooms</summary>
+        
+        -   red tide -- misnomer
+        -   causes
+        -   How are they harmful to fish and humans
+        -   environmental hazard?
+        -   how are we exposed to HAB toxins?
+        -   is it safe to eat seafood
+        -   HABs and climate change
+        </details>    
     4.  <details><summary>wetland ecosystem</summary>
 
+        -   definition
+        -   characteristics
+        -   classification
+        -   functions
+        -   reasons for depletion
+        -   mitigation
+        -   distinction from lakes
+        -   lakes vs wetlands
+        -   india's wetlands
+        -   NWCP
+        -   criteria for identification of wetlands of national importance
+        -   montreaux record
+            -   sites in india
         </details>
     5.  <details><summary>National Wetland Conservation Programme</summary>
 
@@ -123,113 +277,372 @@
         </details>
     7.  <details><summary>Estuary</summary>
 
+        -   characters
+        -   healthy estuary
+        -   life in estuary
+        -   benefits
+        -   india estuarine ecosystem
+        -   issues of indian estuarine ecosystem
+            -   water flow
+            -   pollution and water quality
+            -   recreation and tourism
+            -   ports and shipping
+            -   land-use
+            -   commercial fishing and aquaculture
+            -   climate change
         </details>
     8.  <details><summary>Mangrove</summary>
 
+        -   characteristics
+        -   mangrove profile in india
+        -   role of mangroves
+        -   threat
         </details>
     9.  <details><summary>Coral reefs</summary>
 
+        -   cold water corals
+        -   features
+        -   classification and their location
+        -   functions
+        -   threat
         </details>
     10. <details><summary>Coral bleaching</summary>
 
-        </details>                                    
+        -   ecological causes
+            -   temperature
+            -   solar irradiance
+            -   subaerial exposure
+            -   sedimentation
+            -   fresh water dilution
+            -   inorganic nutrients
+            -   xenobiotics
+            -   epizootics
+        </details>
+    10. <details><summary>govt measures to protect mangrove forest and coral reefs</summary>
+        
+        </details>                                        
     11. <details><summary>Initiatives to protect coastal environment</summary>
 
+        -   comaps
+        -   loicz
+        -   icmam
+        -   sicom
+        -   institutions for coastal management
         </details>          
     </details>
 5.  <details><summary>Environmental pollution</summary>
 
     1.  <details><summary>pollutants</summary>
 
-        -   Mysore
-        -   Cachar and Jaintia
-        -   Coorg
+        -   classifications
+        -   causes
         </details>
     2.  <details><summary>air pollution</summary>
 
+        -   major air pollutants and their sources
+            -   CO
+            -   carbon dioxide
+            -   CFC
+            -   lead
+            -   ozone
+            -   SPM
+            -   silphur dioxide
         -   smog
+            -   formation
+            -   effects
         -   indoor air pollution
+            -   rural
+            -   urban
+            -   pollutants
         -   fly ash
-        -   namp & naaq
+            -   composition
+            -   how is it collected
+            -   environmental effects
+            -   advantages
+            -   policy measures of MoEF
+        -   effects of air pollution
+            -   health
+            -   vegetation
+            -   animals
+            -   materials
+            -   aesthetic loss
+        -   control measures
+        -   govt. initiatives
+            -   namp
+            -   naaqs
+            -   naqi
         -   air pollution in india
+        -   measures to control/mitigate Delhi Air pollution                
         </details>
     3.  <details><summary>water pollution</summary>
 
+        -   sources
+            -   point
+            -   <details><summary>diffuse</summary>
+                
+                -   community waste water
+                -   industrial wastes
+                -   agricultural wastes
+                -   thermal pollution
+                -   underground water pollution
+                -   marine pollution
+                </details>
+        -   <details><summary>effects</summary>
+            
+            -   aquatic ecosystem
+            -   human health
+            -   hazards of ground water pollution
+            </details>        
+        -   <details><summary>control measures</summary>
+
+            </details>    
         </details>
     4.  <details><summary>soil pollution</summary>
 
-        -   financial
-        -   administrative
-        -   social
-            -   abolition of sati
-            -   suppression of thugs
-            -   female infanticide
+        -   <details><summary>causes</summary>
+            
+            </details>
+        -   <details><summary>source</summary>
+            
+            -   industrial wastes
+            -   pesticides
+            -   fertilizers and manures
+            -   discarded materials
+            -   radioactive wastes
+            -   other pollutants
+            </details>
+        -   <details><summary>types</summary>
+            
+            -   agricultural
+            -   industrial effluents and solid wastes
+            -   urban activities
+
+            </details>
+        -   <details><summary>effects</summary>
+            
+            -   agriculture
+            -   health
+            -   environment
+            -   urban areas
+            </details>
+        -   control measures    
         </details>
     5.  <details><summary>noise pollution</summary>
 
+        -   ambient noise level monitoring
+        -   impacts of noise
+        -   <details><summary>control</summary>
+            
+            -   source
+            -   transmission path
+            -   protective equipment
+            </details>
         </details>
     6.  <details><summary>radioactive pollution</summary>
 
+        -   radioactive pollution
+        -   types of radiations
+        -   types of radiation particles
+        -   sources
+            -   natural
+            -   manmade
+        -   effects
+            -   non-ionising
+            -   ionising
+        -   control measures        
         </details>
     7.  <details><summary>e-waste</summary>
 
+        -   <details><summary>source and its health effects</summary>
+            
+            </details>
+        -   <details><summary>e-waste in india</summary>
+            
+            
+            </details>    
         </details>
     8.  <details><summary>solid waste</summary>
-
+        
+        -   plastic waste
+        -   source of generation of waste plastics
+        -   <details><summary>effects</summary>
+            
+            </details>
+        -   <details><summary>types</summary>
+            
+            -   municipal solid
+            -   hazardous
+            -   hospital
+            </details>
+        -   <details><summary>treatment and disposal</summary>
+            
+            -   open dumps
+            -   landfills
+            -   sanitary landfills
+            -   incineration plants
+            -   pyrolysis
+            -   composting
+            -   vermiculture
+            -   four R's
+            </details>  
+        -   waste minimization circles          
         </details>
     9.  <details><summary>thermal pollution</summary>
 
+        -   major sources
+        -   ecological effects
+            -   warm water
+            -   cold water
+        -   control measures    
         </details>
     10. <details><summary>plastics pollution</summary>
 
+        -   marine 
+        -   microparticles
+        -   land
         </details>   
     11. <details><summary>bio-remediation</summary>
-
+        
+        -   <details><summary>strategies</summary>
+            
+            -   in-situ
+            -   ex-situ
+            </details>
+        -   genetic engineering approaches
+        -   phytoremediation and its types
+        -   mycoremediation
+        -   mycofiltration
+        -   advantages of bioremediation
+        -   disadvantages of bioremediation    
         </details>
     12. <details><summary>environmental pollution and health</summary>
 
+        -   first
+        -   second
+        -   third
+        -   fourth
         </details>
     13. <details><summary>acid rain</summary>
 
-        </details>                                                  
+        -   <details><summary>types of acid deposition</summary>
+            
+            -   wet
+            -   dry
+            </details>
+        -   <details><summary>sources of compounds causing acid rain</summary>
+            
+            -   sulphur
+            -   nitrogen
+            -   formic acid
+            -   other acids
+            </details> 
+        -   commom characteristics of acid rain areas
+            -   world scenario
+            -   in india
+        -   chemistry of acid rain           
+        -   <details><summary>impact of acid rain</summary>
+
+            -   soil
+            -   vegetation
+            -   microorganisms
+            -   wildlife
+            -   humans
+            -   materials
+            -   socio-economic    
+            </details>
+        -   trigger effect of acid rain on pollution
+            -   mercury
+            -   aluminium
+            -   cadmium
+            -   lead
+            -   asbestos
+        -   control measures        
+        </details>
+    14. categorization of industrial sectors                                                      
         
     </details>
 6.  <details><summary>renewable energy</summary>
 
+    -   source
+    -   installed power capacity in india
     1.  <details><summary>solar energy</summary>
 
-        -   Annexation of Punjab
-        -   Second Burmese War and the Annexation of Lower Burma
-        -   Annexation of Oudh
+        -   photo-voltaic and solar-thermal
+        -   potential of solar energy in india
+        -   installd capacity - india
+        -   international solar alliance
+            -   objectives
+        -   international renewable energy agency    
         </details>
     2.  <details><summary>International solar alliance</summary>
 
         </details>
     3.  <details><summary>wind</summary>
 
-        -   Railways
-        -   Telegraph
-        -   Postal Reform
-        -   Education
-        -   Public works department
+        -   wind farm
+        -   working of wind turbines
+        -   2 types of wind turbines
+        -   potential wind energy in india
+        -   capacity installed
+        -   national offshore wind energy policy
+        -   national wind energy mission
         </details>
     4.  <details><summary>hydropower</summary>
 
+        -   types of hydropower stations
+            -   impoundment
+            -   diversion
+            -   pumped storage
+        -   small hydro power
+        -   small hydro potential in india
+        -   installed capacity    
         </details>
     5.  <details><summary>ocean thermal</summary>
 
+        -   wave
+        -   tidal
+        -   biomass
+        -   anaerobic digestion/biomethanation
+        -   combustion/incineration
+        -   pyrolysis/gasification
         </details>
     6.  <details><summary>cogeneration</summary>
 
+        -   potential in india
+        -   installed capacity in india
         </details>
     7.  <details><summary>waste-to-energy</summary>
 
+
+
+        -   potential
+        -   major constraints
+            -   choice of tech
+            -   high costs
+            -   improper segregation
+            -   lack of policy support
         </details>
     8.  <details><summary>geothermal energy</summary>
 
+        -   how is it captured
+        -   potential in india
+            -   orogenic regions
+            -   non-orogenic regions
+            -   potential sites
+        -   recent developments 
+        -   challenges
+            -   high generation costs
+            -   drilling costs
+            -   transmission barrier
+            -   accessibility
+            -   execution challenges
         </details>
     9.  <details><summary>fuel cells</summary>
 
+        -   for automobile transport
+        -   for power generation
+        -   constraint
+        -   ren21
         </details>
     10. <details><summary></summary>
 
@@ -240,59 +653,214 @@
 
     1.  <details><summary>Indian Himalayan region</summary>
 
+        -   ihr ervices
+        -   <details><summary>urbanization in the himalayas - is it sustainable?</summary>
+            
+            -   impact - solid waste
+            -   impact - town planning
+            -   initiatives
+                -   ban on plastic in HP
+                -   participatory conservation of lakes in the region
+                -   conservation of dal lake
+                -   assam hil land and ecological sites act, 2006
+                -   urban dev through  JNNURM
+                -   recommendations/solutions for solid waste managment in IHR
+                -   recommendations/solutions - hill town planning and architectural norms 
+            </details>
+        -   <details><summary>tourism - will it ever be  regulated</summary>
+            
+            -   pilgrimage tourism in sensitive areas
+            -   impact - of commercial tourism
+            -   initiatives
+                -   harnessing religious sentiments for conservation
+                -   ladakh himalayan homestays - transforming local mindsets towards snow leopards
+                -   adventure tourism
+                -   tourism-art and culture
+                -   regulated entry
+            -   recommendations/solutions
+            -   recommendations/solutions - promoting ecotourism and regulation of commercial tourism
+            -   recommendations/solutions  for related segments
+                -   rejuvenation of springs and degraded sites
+                -   rainwater harvesting
+                -   ecologically safer roads
+            </details>    
         </details>
     2.  <details><summary>Sand mining in India</summary>
 
+        -   economic consequences
+        -   environmental consequences
+        -   current rules/policies in operations and their areas
+            -   kerala
+            -   tamil  nadu
+            -   karnataka
+            -   andhra pradesh
+            -   maharashtra
+            -   UP
+        -   suggestions
+        -   guidelines forustainable sand and minor  mineral mining    
         </details>
     3.  <details><summary>Palm oil</summary>
 
+        -   when forest shrink, so does the home of endangered species
+        -   applications of palm oil
+        -   environmental impacts of palm oil production    
+            -   deforestation
+            -   loss of biodiversity
+            -   climate change
+            -   use of pesticides and fertilizers
+        -   <details><summary>india and palm oil</summary>
+            
+            -   consumption
+            -   production
+            -   statewise
+            -   major constraints in domestic cultivation
+                -   geographical location
+                -   irrigation
+
+            </details>
+        -   policies related to production and distribution of palm oil
+            -   subsidies for distribution of imported palm oil
+            -   roundtable on sustainable oil
+                -   8 principles
+                -   rspo impact             
         </details>
     4.  <details><summary>Colony collapse disorder</summary>
 
+        -   symptoms
+        -   <details><summary>causes</summary>
+            
+            -   global warming
+            -   varroa mite - parasites
+            -   malnutrition
+            -   metal pollution
+            -   stress
+            -   habitat loss
+            </details>
+        -   how can we protect bees?
+        -   neonicotinoids    
         </details>
     5.  <details><summary>wildlife deaths due to collision with trains</summary>
 
+        -   what has to be done?
         </details>
     6.  <details><summary>impact of radiation</summary>
 
+        -   health impacts
+        -   how the cell phone tower's radiation affects humans?
+        -   <details><summary>responsibilities of stakeholders</summary>
+
+            -   MoEF
+            -   state/local bodies
+            -   state environment and forest deptt.
+            -   dept. of telecommunications
+            -   other agencies 
+            </details> 
         </details>
     7.  <details><summary>genetically engineered trees</summary>
 
+        -   historical background
+        -   is GE trees safer than GM crops?
+            -   for
+            -   against
+        -   who are behind developing GE trees and why?
+        -   in INDIA     
         </details>
     8.  <details><summary>MoEF banned dolphin captivity</summary>
 
+        -   dolphinariums in india
+        -   new proposals
+        -   why ban
+        -   MoEF order
         </details>
     9.  <details><summary>Prohibition of removal of shark fins in the sea</summary>
 
         </details>
     10. <details><summary>cost of environmental degradation in India</summary>
 
+        -   steps taken by govt to control air pollution  
         </details>        
                                 
     </details>
 8.  <details><summary>Environmental Impact Assessment</summary>
 
-    1.  <details><summary>need</summary>
+    1.  <details><summary>need and what is it</summary>
 
         </details>
+    1.  <details><summary>indian policies requiring eia</summary>
+        
+        </details>    
     2.  <details><summary>eia cycle and procedure</summary>
 
-        -   <details><summary>components of eia</summary>
-
-            -   female infanticide
-            -   widow remarriage
-            -   child remarriage
-            -   Purdah system
-            </details>
+        -   screening
+        -   scoping
+        -   baseline data
+        -   impact prediction
+            -   air
+            -   noise
+            -   water
+            -   land
+            -   biological  
+            -   breeding and nesting grounds
+            -   socio-economic and economic status
+        -   assessment of alternatives, delineation of mitigation measures and environmental impact assessment report
+        -   public hearing
+        -   environment management plan
+        -   decision making
+        -   monitoring the clearance conditions
+        1.  salient features of the 2006 amendment        
         </details>
-    3.  <details><summary>procedure of public hearing</summary>
+    3.  <details><summary>components of eia</summary>
 
+        -   air
+        -   noise
+        -   water
+        -   biological
+        -   land
+        -   socio-economic and health environment
+        -   risk assessment
+        -   environment management plan
         </details>
+    4.  <details><summary>key elements of an initial project description and scoping</summary>
+        
+        -   project locations
+            -   siting criteria
+        </details>
+    4.  <details><summary>procedure for public hearing</summary>
+        
+        -   process
+        -   notice
+        -   composition
+        </details>        
     4.  <details><summary>drawbacks and recommendations of eia</summary>
 
+        -   <details><summary>drawbacks</summary>
+            
+            -   applicability
+            -   composition of expert committees and standards
+            -   public hearing
+            -   quality
+            -   monitoring, compliance and institutional arrangements
+            </details>
+        -   <details><summary>recommendations</summary>
+            
+            -   applicability
+            -   public hearing
+            -   quality
+            -   grant of clearance
+            -   composition of expert committees
+            -   monitoring, compliance and institutional arrangementsz
+            -   redressal
+            -   capacity building
+            </details>    
         </details>
+    5.  <details><summary>list of environmentally sensitive places</summary>
+        
+        </details>    
     5.  <details><summary>environmental supplemental plan</summary>
 
+        -   proposals
+        -   positives
+        -   negatives
         </details>
     6.  <details><summary></summary>
 
