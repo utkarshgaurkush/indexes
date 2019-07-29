@@ -360,42 +360,232 @@
 
     8.  <details><summary>Directive Principles of State Policy</summary>
         
+        -   36 - 51
+        -   spanish -> irish -> indian
+        -   dpsp + fr : conscience/soul/philosophy of the constitution
         1.  <details><summary>Features of the Directive Principles</summary>
             
+            -   ideals that the State should keep in mind while formulating policies and enacting laws. These are the constitutional instructions or recommendations to the State in legislative, executive and administrative matters.
+            -   resemble 'Instrument of Instructions' of Govt. of India Act, 1935 issued to Governor-General of India and governors
+            -   economic, social democracy. welfare state as against a police state
+            -   non-justiciable
+            -   courts use to determine the constitutional validity of a law
             </details>
         2.  <details><summary>Classification of the Directive Principles</summary>
             
-            -   Socialistic Principles
-            -   Gandhian Principles
-            -   Liberal–Intellectual Principles
+            -   <details><summary>Socialistic Principles</summary>
+
+                1. To promote the welfare of the people by securing a social order permeated by justice—social, economic and political—and to minimise inequalities in income, status, facilities and opportunities4 (Article 38).
+                2. To secure (a) the right to adequate means of livelihood for all citizens; (b)
+                the equitable distribution of material resources of the community for the
+                common good; (c) prevention of concentration of wealth and means of
+                production; (d) equal pay for equal work for men and women; (e)
+                preservation of the health and strength of workers and children against
+                forcible abuse; and (f) opportunities for healthy development of children5
+                (Article 39).
+                3. To promote equal justice and to provide free legal aid to the poor6 (Article
+                39 A).
+                4. To secure the right to work, to education and to public assistance in cases
+                of unemployment, old age, sickness and disablement (Article 41).
+                5. To make provision for just and humane conditions of work and maternity
+                relief (Article 42).
+                6. To secure a living wage7, a decent standard of life and social and cultural
+                opportunities for all workers (Article 43).
+                7. To take steps to secure the participation of workers in the management of
+                industries8 (Article 43 A).
+                8. To raise the level of nutrition and the standard of living of people and to
+                improve public health (Article 47).
+                </details>
+            -   <details><summary>Gandhian Principles</summary>
+                
+                1. To organise village panchayats and endow them with necessary powers and authority to enable them to function as units of self-government (Article 40).
+                2. To promote cottage industries on an individual or co-operation basis in
+                rural areas (Article 43).
+                3. To promote voluntary formation, autonomous functioning, democratic
+                control and professional management of co-operative societies8a (Article
+                43B).
+                4. To promote the educational and economic interests of SCs, STs, and other
+                weaker sections of the society and to protect them from social injustice
+                and exploitation (Article 46).
+                5. To prohibit the consumption of intoxicating drinks and drugs which are
+                injurious to health (Article 47).
+                6. To prohibit the slaughter of cows, calves and other milch and draught
+                cattle and to improve their breeds (Article 48).
+                </details>
+            -   <details><summary>Liberal–Intellectual Principles</summary>
+
+                1. To secure for all citizens a uniform civil code throughout the country(Article 44.
+                2. To provide early childhood care and education for all children until they
+                complete the age of six years9 (Article 45).
+                3. To organise agriculture and animal husbandry on modern and scientific
+                lines (Article 48).
+                4. To protect and improve the environment and to safeguard forests and wild
+                life10 (Article 48 A).
+                5. To protect monuments, places and objects of artistic or historic interest
+                which are declared to be of national importance (Article 49).
+                6. To separate the judiciary from the executive in the public services of the
+                State (Article 50).
+                7. To promote international peace and security and maintain just and
+                honourable relations between nations; to foster respect for international
+                law and treaty obligations, and to encourage settlement of international
+                disputes by arbitration (Article 51).
+
+                </details>
             </details>
         3.  <details><summary>New Directive Principles</summary>
             
+            -   42nd amendment,1976
+                1. To secure opportunities for healthy development of children (Article 39).
+                2. To promote equal justice and to provide free legal aid to the poor (Article
+                39 A).
+                3. To take steps to secure the participation of workers in the management of
+                industries (Article 43 A).
+                4. To protect and improve the environment and to safeguard forests and wild
+                life (Article 48 A).
+            -   44th amendment, 1978: minimise inequalities in income, status, facilities and opportunities (Article 38).  
+            -   86th amendment, 2002: early childhood care and educatio upto age 6 + elementary education a FR
+            -   97th emendment, 2011: cooperative societies(43B)  
             </details>
         4.  <details><summary>Sanction Behind Directive Principles</summary>
             
+            -   Sir B N Rau
+            -   rights - justiciable and non-justiciable
+            -   FR and DPSP
+            -   political/public opinion force
+            -   made non-justiciable and legally non-enforceable because
+                -   financial constraints
+                -   vast diversity and backwardness
+                -   preocuppations
             </details>
         5.  <details><summary>Criticism of the Directive Principles</summary>
             
             1. No Legal Force
+                -   pious aspirations
             2. Illogically Arranged
+                -   vital vs unimportant
+                -   modern vs old
+                -   reason/science vs sentiment/prejudice
             3. Conservative
+                -   political philosophy of 19th century of England
             4. Constitutional Conflict
+                -   centre - states
+                -   president - PM
+                -   governor - CM
             </details>
         6.  <details><summary>Utility of Directive Principles</summary>
             
+            -   economic democracy
+            -   welfare state
+            -   instrument of instructions, social and economic order
+            -   beacon-lights to courts
+            -   State legislative and executive action
+            -   amplify preamble
+            -   facilitate stability and continuity in policies
+            -   supplementary to FR, social and economic rights
+            -   economic democracy -> political democracy
+            -   helps opposition
+            -   common political manifesto 
             </details>
         7.  <details><summary>Conflict Between Fundamental Rights and Directive Principles</summary>
             
+            -   read distinction between FR and DPSP
+            -   Champakam Dorairajan (1951): FR > DPSP, but FR were amended to implement DPSP
+            -   Golaknath Case (1967): FR> DPSP, yet again amendments were made
+            -   Kesavananda Bharati  (1973)
+            -   42nd amendment (1976), DPSP>FR
+            -   Minerva Mills case (1980), FR>DPSP
+            -   balance and basic structure
             </details>
         8.  <details><summary>Implementation of Directive Principles</summary>
             
+            1. The Planning Commission, NITI Aayog
+            2. land reform laws
+                -   abolition of intermediaries like zamindars, jagirdars, inamdars, etc;
+                -   tenancy reforms like security of tenure, fair rents, etc;
+                -   imposition of ceilings on land holdings; -  distribution of surplus land among the landless labourers;
+                -   cooperative farming.
+            3.  labour
+                -   The Minimum Wages Act (1948)
+                -   the Payment of Wages Act (1936)
+                -   the Payment of Bonus Act (1965)
+                -   the Contract Labour Regulation and Abolition Act (1970)
+                -   the Child Labour Prohibition and Regulation Act (1986)
+                -   the Bonded Labour System Abolition Act (1976)
+                -   the Trade Unions Act (1926)
+                -   the Factories Act (1948)
+                -   the Mines Act (1952)
+                -   the Industrial Disputes Act (1947)
+                -   the Workmen’s Compensation Act (1923)
+                
+                child
+                -   banned the child labour.
+                -   the Child Labour Prohibition and Regulation Act (1986) was renamed as the Child and Adolescent Labour Prohibition and Regulation Act, 1986.
+            4.  women
+                -   The Maternity Benefit Act (1961)
+                -   the Equal Remuneration Act (1976)
+            5. socialist
+                -   nationalisation of life insurance (1956)
+                -  the nationalisation of fourteen leading commercial banks (1969)
+                -   nationalisation of general insurance(1971)
+                -   abolition of Privy Purses (1971) etc.
+            6. The Legal Services Authorities Act (1987) and Lok adalat
+            7. cottage
+                -   Khadi and Village Industries Board 
+                -   Khadi and Village Industries Commission
+                -   Small-Scale Industries Board
+                -   National Small Industries Corporation
+                -   Handloom Board
+                -   Handicrafts Board
+                -   Coir Board
+                -   Silk Board
+            8. living standards
+                -   The Community Development Programme (1952)
+                -   Hill Area Development Programme (1960)
+                -   Drought-Prone Area Programme (1973)
+                -   Minimum Needs Programme (1974)
+                -   Integrated Rural Development Programme(1978)
+                -   Jawahar Rozgar Yojana (1989)
+                -   Swarnajayanti Gram Swarozgar Yojana (1999)
+                -   Sampoorna Grameena Rozgar Yojana (2001)
+                -   National Rural Employment Guarantee
+            Programme (2006)
+            9. forest,wildlife
+                -   The Wildlife (Protection) Act, 1972
+                -   the Forest (Conservation) Act, 1980
+                -   the Water and Air Acts -> Central and State Pollution Control Boards
+                -   The
+            National Forest Policy (1988)
+            10. agriculture and animal husbandry
+            11. Three-tier panchayati raj system (at village, taluka and zila levels) and 73rd Amendment Act (1992)
+            12. sc/st
+                -   reservation
+                -   The Untouchability (Offences) Act, 1955 -> Protection of Civil Rights Act in 1976
+                -   the Scheduled Castes and Scheduled Tribes (Prevention of Atrocities) Act, 1989
+                -   The 65th Constitutional Amendment Act of 1990 -> National Commission for Scheduled Castes and Scheduled Tribes to protect the interests of SCs and STs. 
+                -   The 89th Constitutional Amendment Act of 2003 ->  National Commission for Schedule Castes and National Commission for Schedule Tribes.
+
+                weaker sections
+                -   National Commission for Backward Classes (1993)
+                -   National Commission for Minorities (1993)
+                -   National Commission for Women (1992)
+                -   National Commission for Protection of Child Rights (2007)
+            13. The Criminal Procedure Code (1973)
+            14. The Ancient and Historical Monument and Archaeological Sites and
+            Remains Act (1951)
+            15. Primary health centres,hospitals, special programmes to eradicate widespread diseases
+            16. Laws to prohibit the slaughter of cows, calves, and bullocks have been
+            enacted in some states.
+            17. old age pension schemes
+            18. non-alignment and panchsheel
+            -   problems for implementation - inadequate financial resources, unfavourable socioeconomic
+            conditions, population explosion, strained Centre-state relations
+            and so on.
             </details>
         9.  <details><summary>Directives Outside Part IV</summary>
             
-            1. Claims of SCs and STs to Services
-            2. Instruction in mother tongue
-            3. Development of the Hindi Language
+            1. Claims of SCs and STs to Services(335)
+            2. Instruction in mother tongue(350-A)
+            3. Development of the Hindi Language(351)
             </details>     
         -   <details><summary>Tables</summary>
             
@@ -405,23 +595,79 @@
         </details>
     9.  <details><summary>Fundamental Duties</summary>
         
+        -   article 51 A
+        -   japanese and ussr influence
         1.  <details><summary>Swaran Singh Committee Recommendations</summary>
             
+            -   emergency
+            -   42nd amendment, 1976
+            -   recommendations not included
+                -   pay taxes
+                -   penalty/punishment for non-compliance
+                -   non-judiciability
             </details>
         2.  <details><summary>List of Fundamental Duties</summary>
             
+            According to Article 51 A, it shall be the duty of every citizen of India:
+            1.  to abide by the Constitution and respect its ideals and institutions, the
+            National Flag and the National Anthem;
+            2.  to cherish and follow the noble ideals that inspired the national struggle
+            for freedom;
+            3.  to uphold and protect the sovereignty, unity and integrity of India;
+            4.  to defend the country and render national service when called upon to do
+            so;
+            5.  to promote harmony and the spirit of common brotherhood amongst all
+            the people of India transcending religious, linguistic and regional or
+            sectional diversities and to renounce practices derogatory to the dignity of
+            women;
+            6.  to value and preserve the rich heritage of the country’s composite culture;
+            7.  to protect and improve the natural environment including forests, lakes,
+            rivers and wildlife and to have compassion for living creatures;
+            8.  to develop scientific temper, humanism and the spirit of inquiry and
+            reform;
+            9.  to safeguard public property and to abjure violence;
+            10. to strive towards excellence in all spheres of individual and collective
+            activity so that the nation constantly rises to higher levels of endeavour
+            and achievement; and
+            11. to provide opportunities for education to his child or ward between the
+            age of six and fourteen years. This duty was added by the 86th
+            Constitutional Amendment Act, 2002.
             </details>
         3.  <details><summary>Features of the Fundamental Duties</summary>
             
+            -   moral,civic
+            -   indian way of life
+            -   citizens only
+            -   non-justiciable
             </details>
         4.  <details><summary>Criticism of Fundamental Duties</summary>
             
+            -   not exhaustive
+            -   vague, ambitious and difficult to be understood by common man
+            -   moral precepts
+            -   superfluous
+            -   should have been in part-3  with FRs
             </details>
         5.  <details><summary>Significance of Fundamental Duties</summary>
             
+            -   consciousness of duties
+            -   warning against anti-social and anti-national activities
+            -   source of inspiration, promote sense of discipline and commitment, sense of active participation in the realisation of national goals
+            -   help courts in examining and determining constitutional validity
+            -   enforceable by law, punish/penalise
             </details>
         6.  <details><summary>Verma Committee Observations</summary>
             
+            -   existence of legal provisions for the implementation of some of the Fundamental Duties.
+
+            1. The Prevention of Insults to National Honour Act (1971)
+            2. The various criminal laws
+            3. The Protection of Civil Rights Act (1955)
+            4. The Indian Penal Code (IPC)
+            5. The Unlawful Activities (Prevention) Act of 1967
+            6. The Representation of People Act (1951)
+            7. The Wildlife (Protection) Act of 1972
+            8. The Forest (Conservation) Act of 1980
             </details>        
         -   <details><summary>tables</summary>
             
@@ -429,17 +675,77 @@
         </details>    
     10. <details><summary>Amendment of the Constitution</summary>
         
+        -   article 368
         1.  <details><summary>Procedure for Amendment</summary>
             
+            1. introduction of a bill in either House of Parliament
+            2. introduced by a minister or private member
+            3. passed in each House by a special majority
+            majority
+            4. Each House must pass the bill separately. In case of a disagreement
+            between the two Houses, there is no provision for holding a joint sitting
+            of the two Houses for the purpose of deliberation and passage of the bill.
+            5. If the bill seeks to amend the federal provisions of the Constitution, it
+            must also be ratified by the legislatures of half of the states by a simple
+            majority.
+            6. the bill is presented to the president
+            for assent
+            7. The president must give his assent to the bill. He can neither withhold his
+            assent to the bill nor return the bill for reconsideration of the Parliament.
+            8. After the president’s assent, the bill becomes a constitutional
+            amendment act 
+
             </details>
         2.  <details><summary>Types of Amendments</summary>
             
-            -   By Simple Majority of Parliament
+            -   <details><summary>By Simple Majority of Parliament</summary>
+
+                1. Admission or establishment of new states.
+                2. Formation of new states and alteration of areas, boundaries or names of
+                existing states.
+                3. Abolition or creation of legislative councils in states.
+                4. Second Schedule—emoluments, allowances, privileges and so on of the
+                president, the governors, the Speakers, judges, etc.
+                5. Quorum in Parliament.
+                6. Salaries and allowances of the members of Parliament.
+                7. Rules of procedure in Parliament.
+                8. Privileges of the Parliament, its members and its committees.
+                9. Use of English language in Parliament.
+                10. Number of puisne judges in the Supreme Court.
+                11. Conferment of more jurisdiction on the Supreme Court.
+                12. Use of official language.
+                13. Citizenship—acquisition and termination.
+                14. Elections to Parliament and state legislatures.
+                15. Delimitation of constituencies.
+                16. Union territories.
+                17. Fifth Schedule—administration of scheduled areas and scheduled tribes.
+                18. Sixth Schedule—administration of tribal areas.
+                </details>
             -   By Special Majority of Parliament
-            -   By Special Majority of Parliament and Consent of States    
+                -   FRs
+                -   DPSP
+                -   others which are not covered under 1st and 3rd
+            -   <details><summary>By Special Majority of Parliament and Consent of States</summary>
+
+                1. Election of the President and its manner.
+                2. Extent of the executive power of the Union and the states.
+                3. Supreme Court and high courts.
+                4. Distribution of legislative powers between the Union and the states.
+                5. Any of the lists in the Seventh Schedule.
+                6. Representation of states in Parliament.
+                7. Power of Parliament to amend the Constitution and its procedure (Article
+                368 itself).
+                </details>    
             </details>
         3.  <details><summary>Criticism of the Amendment Procedure</summary>
             
+            -   no special body
+            -   power to initiate  lies with Parliament
+            -   less role of state legislatures
+            -   no time frame for states
+            -   no joint sitting
+            -   similar to legislative process
+            -   provisions - judicial susceptibility
             </details>       
         -   <details><summary>tables</summary>
             
@@ -452,6 +758,26 @@
             </details>
         2.  <details><summary>Elements of the Basic Structure</summary>
             
+            1.  Supremacy of the Constitution
+            2.  Sovereign, democratic and republican nature of the Indian polity
+            3.  Secular character of the Constitution
+            4.  Separation of powers between the legislature, the executive and the judiciary
+            5.  Federal character of the Constitution
+            6.  Unity and integrity of the nation
+            7.  Welfare state (socio-economic justice)
+            8.  Judicial review
+            9.  Freedom and dignity of the individual
+            10. Parliamentary system
+            11. Rule of law
+            12. Harmony and balance between Fundamental Rights and Directive Principles
+            13. Principle of equality
+            14. Free and fair elections
+            15. Independence of Judiciary
+            16. Limited power of Parliament to amend the Constitution
+            17. Effective access to justice
+            18. Principles (or essence) underlying fundamental rights.
+            19. Powers of the Supreme Court under Articles 32, 136, 141 and 1426
+            20. Powers of the High Courts under Articles 226 and 2277
             </details>        
         -   <details><summary>Tables</summary>
             
