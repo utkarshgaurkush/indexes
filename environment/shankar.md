@@ -210,6 +210,7 @@
             -   plankton
             -   nekton
             -   benthos
+                -   bottom
             </details>
         -   factors limiting the productivity of aquatic habitats
             -   sunlight
