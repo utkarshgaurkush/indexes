@@ -201,74 +201,128 @@
     </details>
 4.  <details><summary>Aquatic ecosystem</summary>
 
+    -   classified by salt content
+        -   fresh water(<5)
+        -   marine(>35)
+        -   brackish(5-35)
     1.  <details><summary>Aquatic organism</summary>
 
-        -   <details><summary>groups</summary>
+        -   <details><summary>groups based on zone of occurence and movement</summary>
             
             -   neuston
+                -   unattached and air-water interface
             -   periphyton
+                -   attached to stems, roots emerging from bottom mud
             -   plankton
+                -   microscopic plants and animals
             -   nekton
+                -   swimmer animals, can overcome water current
             -   benthos
                 -   bottom
             </details>
         -   factors limiting the productivity of aquatic habitats
             -   sunlight
                 -   photic zone
+                    -   photosynthesis + respiration
+                    -   plant growth
                 -   aphotic zone
+                    -   only rspiration
+                    -   limited plant growth
             -   dissolved oxygen
+                -   input -> air-water interface and photosynthesis
+                -   output -> air water interface and respiration
+                -   10ppm is average in fresh water, below 3-5 ppm : aquatic org. die
+                -   heat depletes oxygen
             -   transparency
+                -   SPM: clay,silt, phyto-plankton
             -   temperature        
+                -   org. have narrow temperature tolerance limit
             
         </details>
     2.  <details><summary>Lake ecology</summary>
 
         -   ageing of lakes
+            -   accumulate mineral and organic matter and get filled up
         -   in india
+            -   natural: himalaya, floodplains of indus-ganga-brahmaputra
+            -   man-made: peninsula + west
+            -   lake 'sudarshan' oldest manmade in gujarat
         -   general characteristics of oligotrophic and eutrophic lakes
+            -   nutrient content: oligo(low), meso(med), eutro(high)
         -   removal of nutrients from a lake
+            -   algae,fish,macrophytes,sludge removal
+            -   flushing with nutrient poor waters
+            -   etc.
         </details>
     3.  <details><summary>eutrophication</summary>
 
+        -   nitrates/phosphates increase,alglam bloom on surface, oxygen and light decreases
         -   types
             -   natural
             -   manmade
+                -   sewage, fertilisers
         -   sources
             -   point
             -   non-point  
         -   effects
             -   change in ecosystem
+                -   detritus accumulates,gets shallower, transformed to marsh
             -   decreased biodiversity
             -   new species invasion
             -   toxicity
+                -   when algal blooms die , they release toxins
             -   mitigation
+                -   riparian buffer
+                -   N-testing
+                -   treatment of runoff
             -   policies            
         </details>
     4.  <details><summary>harmful algal blooms</summary>
         
+        -   only which release toxins
         -   red tide -- misnomer
+            -   any colour
         -   causes
+            -   nutrient enrichment, warm water
         -   How are they harmful to fish and humans
+            -   deplete oxygen + produce neurotoxins
         -   environmental hazard?
+            -   death of aquatic ecosystem, people get sick, tourism is affected
         -   how are we exposed to HAB toxins?
+            -   toxins in fish + airborne toxins near the water body
         -   is it safe to eat seafood
+            -   except when the fish was from such area
         -   HABs and climate change
         </details>    
     4.  <details><summary>wetland ecosystem</summary>
 
         -   definition
+            -   depth <= 6 m
         -   characteristics
         -   classification
         -   functions
+            -   groundwater recharge
+            -   drinking water
         -   reasons for depletion
+            -   conversion of lands for agriculture
+            -   removal of sand from beds
         -   mitigation
         -   distinction from lakes
+            -   lakes: depth > 3m, area >10 ha and very less aquatic vegetation
+            -   wetland: rich in nutrients and aquatic vegetation
         -   lakes vs wetlands
         -   india's wetlands
+            -   70% under paddy cultivation
         -   NWCP
+            -   1985-86
+            -   ramsar convention
         -   criteria for identification of wetlands of national importance
         -   montreaux record
+                -   list of wetland sites of international importance which are under stress
             -   sites in india
+                -   chilika, orissa(removed)
+                -   loktak, manipur
+                -   keoladeo , rajasthan
         </details>
     5.  <details><summary>National Wetland Conservation Programme</summary>
 
@@ -278,11 +332,16 @@
         </details>
     7.  <details><summary>Estuary</summary>
 
+        -   river meets sea
         -   characters
+            -   highly productive
+            -   calm, no ocean wave action
         -   healthy estuary
         -   life in estuary
         -   benefits
         -   india estuarine ecosystem
+            -   major on east coast
+            -   seaports
         -   issues of indian estuarine ecosystem
             -   water flow
             -   pollution and water quality
@@ -294,21 +353,46 @@
         </details>
     8.  <details><summary>Mangrove</summary>
 
+        -   trees and bushes with high level of salt water tolerance
         -   characteristics
+            -   evergreen
+            -   roots down, roots up, stilt roots
+            -   viviparity
         -   mangrove profile in india
         -   role of mangroves
+            -   protects coastal lands from tsunami, hurricanes and floods
+            -   prevents coastal soil erosion
+            -   provides safe environment for breeding, spawning, rearing of fishes
         -   threat
+            -   destroyed for - agriculture, fuel, fodder, mining etc.
         </details>
     9.  <details><summary>Coral reefs</summary>
 
+        -   polyps(animals) and zooxanthellae(algae)-- symbiotic relation
+        -   polyps and their dead remains(skeleton) - limestone
+        -   color is due to zooxanthellae
         -   cold water corals
         -   features
+            -   shallow tropical areas
+            -   high productivity and biodiversity
+            -   called 'the tropical rainforests of the oceans'
         -   classification and their location
+            -   fringing(continuos with the shore): Andamans
+            -   patch(isolated): Palk bay, Gulf of Mannar, Gulf of Katchchh
+            -   barrier(linear, parallel to coastline): Nicobar, Lakshadweep
+            -   atoll(circular, arsising from sea floor): Nicobar, Lakshadweep 
         -   functions
-        -   threat
+            -   barriers against storms
+            -   provide habitat
+        -   threats
+        
         </details>
     10. <details><summary>Coral bleaching</summary>
 
+        -   what
+            -   stress response
+            -   lose zooxanthellae and their photosynthetic pigments
+            -   if continued, coral host will die
         -   ecological causes
             -   temperature
             -   solar irradiance
@@ -318,9 +402,13 @@
             -   inorganic nutrients
             -   xenobiotics
             -   epizootics
+                -   pathogens
         </details>
     10. <details><summary>govt measures to protect mangrove forest and coral reefs</summary>
         
+        -   Coastal Regulation Zone Notification (2011)
+        -   Island Protection Zone Notification (2011)
+        -   3 Marine Biosphere Reserves
         </details>                                        
     11. <details><summary>Initiatives to protect coastal environment</summary>
 
@@ -329,6 +417,9 @@
         -   icmam
         -   sicom
         -   institutions for coastal management
+            -   CRZ
+            -   NCZMA
+            -   SCZMA
         </details>          
     </details>
 5.  <details><summary>Environmental pollution</summary>
