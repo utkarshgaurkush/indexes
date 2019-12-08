@@ -238,7 +238,9 @@ COMPANY RULE</center>
     -   Simmering Discontent
     -   The 1857 Revolt: the Major Causes 
         -   Economic Causes 
-        -   Political Causes 
+        -   Political Causes
+            -   doctrine of lapse
+            -   subsidiary alliance 
         -   Administrative Causes
         -   Socio-Religious Causes 
         -   Influence of Outside Events 
