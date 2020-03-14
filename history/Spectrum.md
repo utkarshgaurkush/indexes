@@ -211,18 +211,68 @@ COMPANY RULE</center>
 6.  <details><summary>People’s Resistance Against British                   Before 1857</summary>
 
     -   People’s Resistance: Meaning 
+        -   civil, tribal, peasant, military
     -   Genesis of People’s Resistance 
         -   Causative Factors for People’s Uprisings 
     -   Civil Uprisings 
         -   Major Causes of Civil Uprisings 
         -   General Characteristics of Civil Uprisings
-        -   Important Civil Uprisings
-    -   Peasant Movements with Religious Overtones 
-        -   Tribal Revolts 
+        -   <details> <summary>Important Civil Uprisings</summary>
+
+
+            -   sanyasi revolt
+            -   midnapore and dalbhum
+            -   moamarias
+            -   gorakhpur, basti and bahraich
+            -   raja of vizianagaram
+            -   dhundia in  bednur
+            -   Kerala varma pazhassi raja
+            -   awadh
+            -   ganjam and gunsur
+            -   palamau
+            -   Poligars
+            -   bhiwani
+            -   diwan velu thampi
+            -   bundelkhand
+            -   parlakimedi
+            -   Kuttch
+            -   Bareilly
+            -   Hathras
+            -   Paika
+            -   Waghera
+            -   Ahom
+            -   Surat salt agitations
+            -   Kolhapur and savantvadi revolts
+            -   Wahabi movement
+            -   Kuka movement
+            </details>
+
+    -   <details><summary>Peasant Movements with Religious Overtones</summary>
+
+        -   Narkelberia uprising
+        -   The Pagal Panthis
+        -   Faraizi revolt
+        -   Moplah uprisings
+        -   Peasant's role in the 1857 revolt
+        </summary> 
+    -   Tribal Revolts 
         -   Different Causes for Mainland and North-Eastern Tribal Revolts
         -   Characteristics of Tribal Revolts
-        -   Important Tribal Movements of Mainland
+        -   <details><summary>Important Tribal Movements of Mainland</summary>
+
+            -   paharia
+            -   chuar
+            -   Kol
+            -   Ho and Munda
+            -   Santhal
+            -   khond
+            -   Koya
+            -   bhil
+            -   Koli
+            -   Ramosi
+            </details>
         -   Tribal Movements of the North-East 
+            -   Khasi and Singphos
     -   Sepoy Mutinies 
         -   Causes
         -   Important Mutinies
@@ -250,7 +300,19 @@ COMPANY RULE</center>
         -   Starts at Meerut 
         -   Choice of Bahadur Shah as Symbolic Head 
         -   Civilians Join 
-        -   Storm Centres and Leaders of the Revolt 
+        -   <details><summary>Storm Centres and Leaders of the Revolt</summary>
+
+            -   General Bakht Khan
+            -   Bahadur Shah
+            -   Kanpur-Nana Saheb
+            -   Lucknow-Begum Hazrat Mahal
+            -   Bareilly-Khan Bahadur
+            -   Bihar-Kunwar Singh
+            -   Faizabad-Maulvi Ahmadullah
+            -   Jhansi-Rani Laxmibai
+            -   Tantia Tope
+            -   Shah Mal
+            </details> 
     -   Suppression of the Revolt 
     -   Why the Revolt Failed 
         -   All-India participation was absent 
@@ -273,7 +335,12 @@ COMPANY RULE</center>
 
     -   Factors Giving Rise to Desire for Reform 
         -   Impact of British Rule 
-        -   Social Conditions Ripe for Reform 
+        -   <details><summary>Social Conditions Ripe for Reform</summary>
+
+            -   Religious and social ills
+            -   Depressing position of women
+            -   the caste problem
+            </details> 
         -   Opposition to Western Culture 
         -   New Awareness among Enlightened Indians 
     -   Social and Ideological Bases of Reform 
@@ -281,7 +348,15 @@ COMPANY RULE</center>
         -   The Intellectual Criteria 
         -   Two Streams 
     -   Direction of Social Reform 
-        -   Fight for Betterment of Position of Women 
+        -   <details><summary>Fight for Betterment of Position of Women</summary>
+
+            -   Abolition of Sati
+            -   Preventing female infanticide
+            -   Widow remarriage
+            -   Controlling child marriage
+            -   Education of women
+            -   Women's organisations
+            </details> 
         -   Struggle Against Caste-Based Exploitation 
     -   Summary 
 
@@ -345,9 +420,20 @@ COMPANY RULE</center>
         -   Reactionary Policies and Racial 
         -   Arrogance of Rulers
     -   Political Associations Before the Indian National Congress
-        -   Political Associations in Bengal 
-        -   Political Associations in Bombay 
+        -   <details><summary>Political Associations in Bengal</summary>
+
+            -   Bangabhasha Prakasika Sabha
+            -   Zamindari Association
+            -   Bengal British IndiaSociety
+            -   East India Association
+            -   Indian League
+            -   Indian Association of Calcutta
+            </details> 
+        -   Political Associations in Bombay
+            -   Poona Sarvajanik Sabha
+            -   Bombay Presidency Association 
         -   Political Associations in Madras 
+            -   Madras Mahajan Sabha
     -   Pre-Congress Campaigns 
     -   Summary 
     </details>
