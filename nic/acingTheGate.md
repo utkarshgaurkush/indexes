@@ -186,96 +186,117 @@
 
 3.  <details><summary> Programming and Data Structures </summary>
 
-    -   Introduction 105
-    -   Basic Terminology 105
-        -   Programming Languages 105
-        -   Classification of High-Level Languages 106
-        -   Procedural Programming and Object-Oriented Programming 106
-        -   Data Types 107
-        -   Control Flow Statements 108
-        -   Array 110
-        -   Function and Recursion 111
-        -   Pointers 113
-        -   Parameter Passing 115
-        -   Structures and Unions 117
-        -   Enumerated Data Types 117
-        -   Scoping 117
-        -   Binding 118
-        -   Abstract Data Types 119
-    -   Stack 119
-        -   PUSH Operation on Stack 119
-        -   POP Operation on Stack 119
-        -   Application of Stack 120
-    -   Queue 122
-        -   Basic Operations on Queue 122
-        -   Types of Queue 123
-        -   Applications of Queues 123
-    -   Linked List 123
-        -   Basic Operations 123
-        -   Linked List Implementation 124
-    -   Trees 125
-        -   Binary Tree 125
-        -   Types of Binary Trees 125
-        -   Array Representation of Binary Trees 126
-        -   Tree Applications 126
-        -   Binary Search Tree 126
-        -   Graphs 127
+    -   Introduction 
+    -   Basic Terminology 
+        -   Programming Languages and generations(5)
+        -   Classification of High-Level Languages: procedural, non procedural, problem oriented
+        -   Procedural, Object-Oriented(basic concepts too), Structured : programming 
+        -   Data Types : basic ,defined, user defined and conversion direction
+        -   Control Flow Statements : conditional,unconditional, loops
+        -   Array : declaration, intialisation, address calulation
+        -   Function: parts(5), types(2), advantages
+        -   Recursion
+        -   Pointers(read properly)
+            -   initialise, arithmetic, dangling etc.
+        -   Parameter Passing: value, reference 
+        -   Structures and Unions 
+        -   Enumerated Data Types 
+        -   Scoping : local, global, storage classes(4)
+        -   Binding and merits, demerits: early, late
+        -   Abstract Data Types 
+    -   Stack 
+        -   PUSH Operation on Stack 
+        -   POP Operation on Stack 
+        -   Application of Stack
+            -   special: expression conversion 
+    -   Queue 
+        -   Basic Operations on Queue 
+        -   Types of Queue 
+        -   Applications of Queues 
+    -   Linked List 
+        -   Basic Operations 
+        -   Linked List Implementation 
+    -   Trees 
+        -   Binary Tree 
+        -   Types of Binary Trees 
+        -   Array Representation of Binary Trees
+        -   Tree Applications 
+        -   Binary Search Tree and traversals
+        -   Graphs 
+            -   terms
+            -   traversal
+            -   shortest path
+            -   spanning tree and mst
+        -   avl tree
+        -   binary heaps    
     </details>
 
-4.  <details><summary>Algorithms</summary>
+4.  <details><summary>Algorithms(focus on equations , numbers and maths of topics)</summary>
 
     -   Introduction
     -   Algorithm
-        -   Properties of Algorithm 177
-        -   Steps to Solve a Problem 177
-        -   Algorithm Analysis 178
-        -   Asymptotic Notation 178
-        -   Recurrence Relations 180
-    -   Hashing  182
-        -   Hash Table 182
-        -   Hashing Functions 182
-        -   Collisions 182
-    -   Binary Heap 184
-        -   Insertion in Min-Heap Tree 185
-        -   Deletion in Min-Heap Tree 185
-        -   Time Complexity 186
-    -   Searching and Sorting 186
-        -   Linear Search 186
-        -   Binary Search 187
-        -   Bubble Sort 187
-        -   Selection Sort 187
-        -   Insertion Sort 188
-        -   Heap Sort 188
-        -   Merge Sort 190
-        -   Quick Sort 192
-        -   Randomized Quick Sort 193
-        -   Counting Sort 193
-        -   Comparison of Sorting Techniques 194
-    -   Graph 194
-        -   Types of Graph 194
-        -   Types of Simple Graph 194
-        -   Graph Representation 195
-    -   Greedy Approach 195
-        -   Applications of Greedy Approach 196
-        -   Fractional Knapsack 196
-        -   Huffman Coding 197
-        -   Minimum Spanning Tree 198
-        -   Single-Source Shortest Path 200
-    -   Graph Traversal 201
-        -   Breadth-First Traversal 201
-        -   Depth-First Traversal 202
-    -   Dynamic Programming 203
-        -   Applications of Dynamic Programming 204
-        -   Fibonacci Series 204
-        -   0/1 Knapsack 204
-        -   Longest Common Subsequence 205
-    -   All-Pair Shortest Path 205
-        -   Floyd’s Algorithm 205
-    -   Concepts of Complexity Classes 205
-        -   P-Complexity Class 205
-        -   NP Complexity Class 206
-        -   NP-Complete 206
-        -   NP-Hard 206
+        -   Properties of Algorithm 
+        -   Steps to Solve a Problem 
+        -   Algorithm Analysis (r=time and space) : a posteriori and a priori
+        -   Asymptotic Notation: theta, big-O, omega, small-O, small-omega
+            -   properties: transitivity, reflexivity, symmetric, transpose symmetry
+            -   types and order of complexities
+        -   Recurrence Relations : iteration, recursion tree, master theorem
+    -   Hashing  
+        -   Hash Table 
+        -   Hashing Functions
+        -   Collisions 
+            -   separate chaining
+            -   open addressing
+                -   probing methods and advantages , disadvantages
+                    -   linear probing
+                    -   quad probing  
+                    -   double hashing
+                -   removing items under open addressing 
+    -   Binary Heap : min and max
+        -   Insertion in Min-Heap Tree 
+        -   Deletion in Min-Heap Tree 
+        -   Time Complexity 
+    -   Searching and Sorting : recurrence relations, complexities, aoplications
+        -   Linear Search 
+        -   Binary Search
+        -   Bubble Sort 
+        -   Selection Sort 
+        -   Insertion Sort 
+        -   Heap Sort 
+        -   Merge Sort 
+        -   Quick Sort
+        -   Randomized Quick Sort 
+        -   Counting Sort 
+        -   Comparison of Sorting Techniques 
+    -   Graph 
+        -   Types of Graph : simple , multi
+        -   Types of Simple Graph : null, regular, complete
+        -   Graph Representation : matrix , list
+    -   Greedy Approach and Applications
+        -   job sequence with deadline
+        -   Fractional Knapsack 
+        -   Huffman Coding 
+        -   Minimum Spanning Tree 
+            -   kruskal
+            -   prim
+        -   Single-Source Shortest Path
+            -   dijkstra
+            -   bellman ford 
+    -   Graph Traversal 
+        -   Breadth-First Traversal and applications 
+        -   Depth-First Traversal and applications
+    -   Dynamic Programming and applications 
+        -   Fibonacci Series 
+        -   0/1 Knapsack 
+        -   Longest Common Subsequence 
+        -   All-Pair Shortest Path 
+            -   Floyd’s Algorithm 
+    -   Concepts of Complexity Classes 
+        -   P-Complexity Class 
+        -   NP Complexity Class 
+        -   NP-Complete 
+        -   NP-Hard 
     </details>
 
 5.  <details><summary>Theory of Computation</summary>
@@ -419,207 +440,621 @@
 
 
 
-7 Operating System 327
-7.1 Introduction 327
-7.2 Types of Operating System 328
-7.2.1 Batch Operating System 328
-7.2.2 Multiprogramming Operating System 328
-7.2.3 Multitasking Operating System 328
-7.2.4 Multiprocessor Operating System 328
-7.2.5 Real-Time Operating System 329
-7.3 Process Management 329
-7.3.1 Process 329
-7.3.2 Schedulers 330
-7.4 CPU Scheduling 331
-7.4.1 Scheduling Algorithms 331
-CONTENTS xix
-7.5 Process Synchronization 335
-7.5.1 Types of Processes 335
-7.5.2 Interprocess Communication 336
-7.5.3 Classical Synchronization Problems 336
-7.5.4 Race Condition 336
-7.5.5 Critical Section 337
-7.5.6 Peterson’s Algorithm for Two Processes 337
-7.5.7 Semaphores 338
-7.5.8 Deadlock and Starvation 339
-7.6 Deadlocks 339
-7.6.1 Resource Types 340
-7.6.2 Characteristics of a Deadlock 340
-7.6.3 Resource Allocation Graph 340
-7.6.4 Deadlock Prevention 341
-7.6.5 Deadlock Avoidance 342
-7.6.6 Deadlock Detection and Recovery 346
-7.7 Threads 347
-7.7.1 Benefits of Threads 347
-7.7.2 Types of Threads 347
-7.8 Memory Management 348
-7.8.1 Partitioning 348
-7.8.2 Partition Allocation Policies 348
-7.8.3 Loading and Linking 349
-7.8.4 Paging 350
-7.8.5 Multi-Level Paging 352
-7.8.6 Segmentation 354
-7.8.7 Virtual Memory 355
-7.8.8 Page Replacement Algorithms 355
-7.9 File System 359
-7.9.1 Directory Structures 359
-7.9.2 Allocation Methods 359
-7.10 I/O Systems 363
-7.10.1 Disk Structure 363
-7.10.2 Disk Scheduling Algorithms 366
-7.11 Protection and Security 368
-7.11.1 Security 368
-7.11.2 Security Environment 369
-7.11.3 Cryptography 369
-7.11.4 Attacks from within the System 370
-7.11.5 Attacks from Outside the System 370
-7.11.6 Anti Virus Approaches 371
+7.  <details><summary>Operating System</summary>
+
+    -   Introduction
+        -   THE
+        -   management: process, memory, file, device
+    -   Types of Operating System 
+        -   Batch Operating System 
+        -   Multiprogramming Operating System 
+        -   Multitasking Operating System 
+        -   Multiprocessor Operating System 
+        -   Real-Time Operating System 
+    -   Process Management 
+        -   Process
+            -   attributes 
+            -   process states
+        -   Schedulers 
+            -   types
+            -   dispatcher
+            -   degree of multiprogramming
+            -   time periods
+    -   CPU Scheduling 
+        -   Scheduling Algorithms 
+            -   fcfs
+            -   sjf
+            -   srtf
+            -   round robin
+            -   priority based
+            -   hrrn
+            -   multilevel queue
+            -   multilevel feedback queue
+        -   other approaches
+            -   guaranteed scheduling
+            -   lottery scheduling
+        -   dynamic scheduling algo
+            -   rate monotonic
+            -   earliest deadline first
+            -   least laxity 
+    -   Process Synchronization 
+        -   Types of Processes : independent, cooperating, concurrent
+        -   Interprocess Communication and techniques
+        -   Classical Synchronization Problems 
+            -   producer consumer
+            -   reader writer
+            -   dining philosopher
+        -   Race Condition 
+        -   Critical Section 
+            -   problem
+            -   busy waiting
+            -   solutions
+                -   mutual exclusion
+                -   progress
+                -   bounded waiting
+        -   Peterson’s Algorithm for Two Processes 
+        -   Semaphores 
+            -   integer
+            -   binary
+            -   counting
+            -   common concurrency mechanisms
+        -   Deadlock and Starvation 
+    -   Deadlocks 
+        -   Resource Types 
+        -   Characteristics of a Deadlock 
+            -   mutual exclusion
+            -   hold and wait
+            -   non preemptive
+            -   circular wait
+        -   Resource Allocation Graph 
+        -   Deadlock Prevention 
+            -   based on 4 charactersitics of deadlock
+        -   Deadlock Avoidance 
+            -   safe state
+            -   RAG
+            -   Banker
+                -   data structures
+                -   safety algo
+                -   resource request algo
+                -   time complexity
+                -   limitations
+        -   Deadlock Detection and Recovery 
+            -   detection
+                -   single instancve
+                -   multiple instance
+            -   recovery
+                -   process termination
+                -   checkpointing and rollback    
+    -   Threads 
+        -   Benefits of Threads 
+        -   Types of Threads : ult , klt
+        -   fork()
+    -   Memory Management 
+        -   techniques compared
+        -   Partitioning : fixed and variable
+        -   Partition Allocation Policies: first, next, best, worst
+        -   Loading and Linking 
+            -   loading:    static , dynamic
+            -   linking(address binding):compiler , load time, runtime(dynamic)    
+        -   Paging 
+            -   terms
+            -   paging performance with TLB
+        -   Multi-Level Paging
+            -   problems
+            -   inverted paging
+        -   Segmentation 
+        -   Virtual Memory 
+            -   demand paging
+            -   effective memory access time
+        -   Page Replacement Algorithms 
+            -   FIFO
+                -   problems and belady
+            -   optimal RA
+            -   LRU
+            -   frame allocation
+                -   fixed allocation
+                    -   equal and proportional
+                    -   priority
+            -   global vs local replacement
+            -   thrashing and working set model               
+    -   File System 
+        -   Directory Structures
+            -   single level
+            -   2 level
+            -   tree structured
+                -   absolute path name
+                -   relative path name
+            -   acyclic graph directories     
+        -   Allocation Methods 
+            -   contiguous
+            -   linked
+            -   indexed
+                -   index block
+                    -   linked scheme
+                    -   multilevel index
+                    -   combined scheme
+    -   I/O Systems 
+        -   classification:
+            -   machine readable
+            -   human readable
+            -   communication
+        -   Disk Structure 
+            -   structure
+            -   time relate to disk: seek, rotational latency, transfer time, tranfer rate
+            -   disk interleaving: single, double
+        -   Disk Scheduling Algorithms
+            -   fcfs
+            -   SSTF
+            -   SCAN
+            -   C-SCAN
+            -   LOOK and C-LOOK
+            -   Selection of algo
+    -   Protection and Security 
+        -   Security : C,I,A
+        -   Security Environment
+            -   threats, intruders, accidental data loss 
+        -   Cryptography : symmetric, asymmetric
+        -   Attacks from within the System
+            -   trojan horses
+            -   login spoofing
+            -   logic bombs
+            -   trap doors
+            -   buffer overflow
+        -   Attacks from Outside the System 
+            -   virus damage scenarios
+            -   virus classification    
+                -   environment
+                -   operation mode
+                -   destructive capabilities
+        -   Anti Virus Approaches 
+            -   signature scanning
+            -   heuristic scanning
+            -   generic decryption
+            -   behaviour blocking
+            -   detect, identify, remove
+    </details>
+
+
+
+8.  <details><summary>Databases</summary>
+
+    -   Introduction 
+        -   Traditional File Processing Approach 
+        -   Database Management System 
+            -   functions
+    -   Components of Database Systems 
+        -   software
+        -   h/w
+        -   data
+        -   procedures
+        -   data access language
+        -   people
+            -   sys admin
+            -   db admin
+            -   db designer
+            -   application programmer
+            -   end user
+    -   DBMS Architecture 
+        -   3-Tier Architecture
+            -   internal schema/ physical
+            -   conceptual schema/ logical
+            -   external schema/ view 
+        -   Data Independence: logical and physical 
+    -   Data Models 
+        -   types
+        -   Relational Model 
+            -   terms
+            -   constraints
+            -   relational algebra
+            -   tuple calculus
+        -   ER Model: 
+            -   entity
+            -   attributes
+            -   relationships 
+    -   Database Design 
+        -   steps
+        -   Integrity Constraints
+            -   domain integrity
+            -   entity integrity
+            -   referential integrity
+            -   foreign key integrity
+                -   cascade update
+                -   cascade delete 
+        -   Normal Forms : 1,2,3, BCNF, 4(MDNF), 5(PJNF)
+        -   Attribute Closure
+        -   Key 
+            -   superkey
+            -   candidate key
+            -   primary key
+            -   alternate
+            -   composite
+            -   foreign
+        -   Decomposition
+            -   lossless join and algo to determine it
+            -   dependency preserving and algo to determine it
+            -   relation b/w two FD sets
+    -   Query Languages (SQL) 
+        -   SQL Commands and usages 
+            -   DDL
+            -   DML
+            -   DCL
+    -   File Structures 
+        -   Sequential Files 
+        -   Indexing
+            -   primary, secondary, clustering index
+            -   dense , sparse index
+        -   B Tree 
+        -   B+ Trees
+    -   Transactions and Concurrency Control 
+        -   Transactions : ACID
+        -   Schedule 
+            -   serial and concurrent
+            -   comparison
+            -   problems of concurrent: WR,RW, WW
+        -   Classification of Schedule Based on Recoverability
+            -   irrecoverable
+            -   recoverable
+            -   cascading rollback recoverable
+            -   strict recoverable
+        -   Classification of Schedule Based on Serializability
+            -   conflict
+                -   conflict equivalent
+                -   conflict and non-conflict pairs
+                -   testing method
+            -   view
+        -   Concurrency Control Protocol
+            -   lock based
+                -   lock mechanisms : shared and exclusive
+                -   2PL
+                -   2PL with lock upgradation
+                -   strict 2PL
+                -   rigorous 2PL
+            -   time stamp ordering based
+                -   stamps: read and write
+                -   basic time ordering protocol
+                -   strict time ordering protocol
+                -   deadlock prevention
+                -   wait die protocol
+                -   wound wait protocol
+    </details>
 
 
 
 
-8 Databases 403
-8.1 Introduction 403
-8.1.1 Traditional File Processing Approach 403
-8.1.2 Database Management System 404
-8.2 Components of Database Systems 404
-8.3 DBMS Architecture 405
-8.3.1 3-Tier Architecture 405
-8.3.2 Data Independence 405
-8.4 Data Models 405
-8.4.1 Relational Model 406
-8.4.2 ER Model 407
-8.5 Database Design 410
-8.5.1 Integrity Constraints 410
-8.5.2 Normal Forms 411
-8.5.3 Attribute Closure 411
-8.5.4 Key 411
-8.5.5 Decomposition 412
-8.6 Query Languages (SQL) 414
-8.6.1 SQL Commands 414
-8.7 File Structures 416
-8.7.1 Sequential Files 416
-8.7.2 Indexing 416
-8.7.3 B Tree 416
-8.7.4 B+ Trees 416
-8.8 Transactions and Concurrency Control 417
-8.8.1 Transactions 417
-8.8.2 Schedule 417
-8.8.3 Classification of Schedule Based on Recoverability 419
-8.8.4 Classification of Schedule Based on Serializability 420
-8.8.5 Concurrency Control Protocol 423
+
+9.  <details><summary>Information Systems and Software Engineering</summary>
+
+    -   Introduction 
+    -   Information Systems 
+        -   diagram
+        -   Components of Information Systems 
+        -   Types of Information Systems 
+            -   level wise: tps, kws, oas, dss, mis, ess
+            -   office IS
+            -   transaction processing
+            -   Management IS
+            -   DSS
+            -   Expert systems
+            -   integrated information systems
+    -   Software 
+        -   Characteristics of Software 
+        -   Software Engineering 
+            -   layered: quality, kpa, methods, tools
+            -   generic: definition,validation, development
+            -   support: corrective, adaptive, perfective, preventive
+            -   software process: cmmi
+                -   0 (initial)
+                -   1 (repeatable)
+                -   2 (defined)
+                -   3 (managed)
+                -   4 (optimized)
+    -   Process Models 
+        -   Conventional Process Model 
+            -   waterfall
+            -   prototype
+            -   rapid
+        -   Evolutionary Process Model 
+            -   incremental, spiral, component based development
+    -   Measurement of Metrics 
+        -   Metrics : 4P
+            -   direct and indirect
+        -   Size-Oriented Metrics :loc and fpa
+        -   Effort and Schedule (Duration) Estimation
+            -   SEL and WF
+            -   COCOMO
+            -   defect rate
+            -   defect removal efficiency
+            -   halstead size oriented metric 
+    -   Risk Analysis 
+        -   uncertainty and loss
+        -   Risk Identification 
+        -   risk strategy
+        -   risk types
+        -   risk components
+        -   Risk Projection or Risk Estimation 
+    -   Software Development Life Cycle
+        -   diagram 
+        -   Requirement
+            -   types of requirements
+            -   external interfaces
+            -   requirement engineering: management and development
+            -   management: change control, version control, req tracing
+            -   development: diagram
+                -   elicitation 
+                -   analysis
+                -   specification
+                -   validation
+        -   Design : 
+            -   levels: data, architecture, interface , component
+            -   concepts
+                -   abstraction
+                -   refinement
+                -   modularity
+                    -   cohesion and coupling
+            -   software architecture
+            -   control architecture
+            -   data structure
+            -   software procedure        
+        -   Coding
+        -   Testing 
+            -   structural and functional
+            -   structural
+                -   white box, glass box
+                -   basis path: cyclomatic complexity, graph matrices
+                -   control structure
+            -   functional, behavioural : black box, grey box
+                -   equivalence partition
+                -   boundary value analysis
+                -   graph based
+                -   comparison
+            -   sdlc stage wise testing
+                -   req: validation, black box
+                -   design: integration
+                    -   top down
+                    -   bottom up
+                    -   regression
+                    -   smoke
+                -   code: =unit test
+                -   test: alpha,  beta
+                -   maintenance: system 
+                    -   recovery, security, stress, performance          
+        -   maintenance : corrective, adaptive, perfective, preventive
+    </details>
 
 
 
 
 
 
+10. <details><summary>Computer Networks</summary>
 
-9 Information Systems and Software Engineering 453
-9.1 Introduction 453
-9.2 Information Systems 453
-9.2.1 Components of Information Systems 454
-9.2.2 Types of Information Systems 454
-9.3 Software 456
-9.3.1 Characteristics of Software 456
-9.3.2 Software Engineering 457
-9.4 Process Models 458
-9.4.1 Conventional Process Model 458
-9.4.2 Evolutionary Process Model 459
-CONTENTS xxi
-9.5 Measurement of Metrics 461
-9.5.1 Metrics 461
-9.5.2 Size-Oriented Metrics 462
-9.5.3 Effort and Schedule (Duration) Estimation 463
-9.6 Risk Analysis 466
-9.6.1 Risk Identification 466
-9.6.2 Risk Projection or Risk Estimation 466
-9.7 Software Development Life Cycle 467
-9.7.1 Requirement 467
-9.7.2 Design 470
-9.7.3 Coding 472
-9.7.4 Testing 472
+    -   Introduction 
+    -   Network 
+        -   Network Topology : bus, mesh, ring, star, tree
+    -   LAN Technologies and their comparison
+        -   Ethernet 
+        -   Token Bus 
+        -   Token Ring 
+    -   ISO/OSI Stack 
+        -   iso/osi vs tcp/ip
+        -   ISO/OSI Model 
+            -   1: physical: transmission & propagation time
+            -   2: data link
+                -   encoding
+                -   framing
+                -   flow control
+                -   error control
+                -   techniques of flow & error control
+                    -   stop and wait automatic repeat
+                    -   go back n automatic repeat
+                    -   selective repeat automatic repeat
+                -   parity bits
+                -   polynomial codes
+                -   CRC
+                    -   procedure & decoding
+                    -   choosing a  CRC polynomial
+                -   sublayers:
+                    -   MAC
+                    -   LLC
+                    -   multiple access protocols categorization
+                    -   random access protocols
+                        -   pure ALOHA
+                        -   slotted ALOHA
+                        -   CSMA
+            -   3: network
+                -   switching compared: circuit, message , packet
+                -   Internet
+                    -   datagram network
+                    -   connectionless network
+                    -   tcp vs udp                
+    -   Routing Algorithms 
+        -   adaptive and non-adaptive
+        -   non adaptive properties
+        -   static: shortest path routing and flooding
+        -   flow based routing
+        -   dynamic: distance vector and links state
+        -   hierarchical
+        -   routing for mobile hosts: ospf/is-is
+        -   broadcast and multicast
+    -   Network Layer Protocols 
+        -   Internet Protocol (IPv4) 
+            -   header
+            -   ipv4 addresses
+            -   classful  addressing and masks
+            -   classless addressing, subnetting, supernetting
+        -   ICMP 
+    -   Layer 4: Transport Layer 
+    -   Congestion 
+        -   Congestion Versus Flow Control 
+    -   User Datagram Protocol and Transmission Control Protocol
+        -   User Datagram Protocol 
+        -   Transmission Control Protocol
+    -   Sockets 
+    -   Layer 5: Session Layer 
+    -   Layer 6: Presentation Layer 
+    -   Layer 7: Application Layer 
+        -   icmp
+        -   dns
+        -   smtp
+        -   pop
+        -   ftp
+        -   http
+    -   Devices : layer wise
+        -   repeaters
+        -   bridge
+        -   hub
+        -   switch
+        -   router
+        -   gateway
+    -   Network Security :CIA 
+        -   Basic Concepts in Cryptography
+            -   symmetric
+            -   asymmetric
+                -   RSA 
+        -   Digital Signature and DSA steps
+            -   key generation
+            -   signature
+            -   verification
+            -   correctness 
+        -   Firewall : functions, types , limitations
+    -   Basics of WiFi
+        -   Some historical facts about mobile radiotelephony
+        -   WLAN standards
+        -   IEEE standards
+            -   modulation methods
+            -   standards
+                -   802.11
+                -   802.11a
+                -   802.11b
+                -   802.11g
+                -   802.11n
+                -   802.11z
+            -   WLAN modes
+                -   adhoc
+                -   infrastructure: bss , ess
+        -   IEEE  802 based wireless network technologies
+            -   bluetooth 
+                -   piconet, scatternet, wibree
+                -   zigbee
+                -   wimax
+        -   comparison of wireless technologies
+        -   advantages and disadvantages of wireless technologies
+    </details>
 
 
 
 
 
+11. <details><summary>Web Technologies</summary>
+
+    -   Introduction 
+    -   HTML 
+        -   HTML Tags 
+        -   HTML Attributes: core and generic
+        -   HTML Elements 
+        -   HTML Character Entities 
+        -   HTML Formatting 
+        -   HTML Phrase Tags 
+        -   HTML Background : bgcolor, background
+        -   HTML Lists : ul,ol,dl
+        -   HTML Links 
+        -   HTML Images 
+        -   HTML Tables 
+        -   HTML Frames 
+        -   HTML Forms 
+        -   HTML Marquees
+    -   Cascading Style Sheets 
+    -   XML 
+        -   namespace and semnantics
+        -   Advantages of XML 
+        -   Document-Type Definition 
+        -   Tag Rules for XML Documents 
+        -   Types of XML Documents 
+        -   XHTML 
+        -   Document Object Model (DOM) 
+        -   XUL 
+        -   Flash and Silverlight 
+        -   User-Interface Language 
+    -   Basic Concepts of Client— Server Computing 
+        -   Server Types 
+            -   file,print,application,web
+            -   mail,fax,db,transaction
+        -   Stateless and Stateful Servers 
+        -   Thin Client , fat client and Fat Servers 
+        -   Functions of a Client 
+        -   Functions of a Server 
+        -   Topologies for Client-Server 
+            -   1C-1S
+            -   MC-1S
+            -   MC-MS
+        -   Types of Client-Server Model and merits, demerits of each :2,3,N
+        -   Merits and Demerits of Client-Server 
+    -   J2EE platform
+        -   components 
+        -   J2EE Services 
+        -   J2EE Architecture 
+        -   EJB Container 
+        -   J2EE Application Server 
+    </details>
 
 
-10 Computer Networks 491
-10.1 Introduction 491
-10.2 Network 491
-10.2.1 Network Topology 492
-10.3 LAN Technologies 492
-10.3.1 Ethernet 492
-10.3.2 Token Bus 493
-10.3.3 Token Ring 493
-10.4 ISO/OSI Stack 494
-10.4.1 ISO/OSI Model 494
-10.5 Routing Algorithms 498
-10.6 Network Layer Protocols 501
-10.6.1 Internet Protocol (IPv4) 501
-10.6.2 ICMP 505
-10.7 Layer 4: Transport Layer 505
-10.8 Congestion 505
-10.8.1 Congestion Versus Flow Control 506
-10.9 User Datagram Protocol and Transmission Control Protocol 506
-10.9.1 User Datagram Protocol 506
-10.9.2 Transmission Control Protocol 506
-10.10 Sockets 507
-10.11 Layer 5: Session Layer 507
-10.12 Layer 6: Presentation Layer 508
-10.13 Layer 7: Application Layer 508
-10.14 Devices 509
-10.15 Network Security 510
-10.15.1 Basic Concepts in Cryptography 510
-10.15.2 Digital Signature 511
-10.15.3 Firewall 511
+12. <details><summary>Discrete mathematics</summary>
 
-
-
-
-
-
-11 Web Technologies 537
-11.1 Introduction 537
-11.2 HTML 538
-11.2.1 HTML Tags 538
-11.2.2 HTML Attributes 538
-11.2.3 HTML Elements 539
-11.2.4 HTML Character Entities 539
-11.2.5 HTML Formatting 539
-11.2.6 HTML Phrase Tags 540
-11.2.7 HTML Background 540
-11.2.8 HTML Lists 540
-11.2.9 HTML Links 540
-11.2.10 HTML Images 540
-11.2.11 HTML Tables 540
-11.2.12 HTML Frames 541
-11.2.13 HTML Forms 541
-11.2.14 HTML Marquees 541
-11.3 Cascading Style Sheets 541
-11.4 XML 541
-11.4.1 Advantages of XML 542
-11.4.2 Document-Type Definition 542
-11.4.3 Tag Rules for XML Documents 542
-11.4.4 Types of XML Documents 543
-11.4.5 XHTML 543
-11.4.6 Document Object Model (DOM) 543
-11.4.7 XUL 543
-11.4.8 Flash and Silverlight 543
-11.4.9 User-Interface Language 543
-11.5 Basic Concepts of Client— Server Computing 544
-11.5.1 Server Types 544
-11.5.2 Stateless and Stateful Servers 544
-11.5.3 Thin Client and Fat Servers 544
-11.5.4 Functions of a Client 544
-11.5.5 Functions of a Server 544
-11.5.6 Topologies for Client-Server 545
-11.5.7 Types of Client-Server Model 545
-11.5.8 Merits and Demerits of Client-Server 546
-11.6 J2EE platform 546
-11.6.1 J2EE Services 546
-11.6.2 J2EE Architecture 547
-11.6.3 EJB Container 547
-11.6.4 J2EE Application Server 547
+    -   intro
+    -   propositional logic and first order logic
+        -   proposition/statement
+        -   logically equivalent
+        -   contrapositive
+        -   inverse
+        -   precedence of connectors or logical operators
+        -   tautology, contradiction, contingency
+        -   logicaly equivalent identities
+        -   argument validity
+        -   conjunctive normal form
+        -   disjunctive normal form
+        -   some more connectives
+        -   predicate logic
+        -   quantifiers
+        -   well formed formula
+    -   set theory
+        -   finite and infinite sets
+        -   set identities
+        -   addition/ inclusion-exclusion principle
+        -   symmetric difference
+    -   relations
+        -   graph/ pictorial representation
+        -   inverse relation
+        -   properties of relations
+        -   directed graphs of relations on sets
+        -   hasse diagram
+        -   composition of relations
+        -   matrix representation
+        -   partial ordered relation
+        -   linearly ordered set
+        -   lattice
+        -   modular lattice
+        -   functions
+    -   group
+        -   order
+        -   subgroup
+        -   cyclic group
+    -   permutations
+    -   combinatorics
+        -   permutation
+        -   permutation with repetition
+        -   combination
+        -   pigeonhole/ shoebox
+        -   generalized pigeon hole
+        -   recurrence relation
+        -   generating function
+    -   graph theory
+        -   bipartite graph
+        -   complete bipartite graph
+        -   complement of a graph
+        -   isomorphic graphs
+        -   euler graphs
+        -   hamiltonian graphs
+        -   planar graphs
+        -   graph coloring
+        -   chromatic number
+    </details>
