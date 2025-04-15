@@ -1,5 +1,5 @@
 ## Projects at Optum
-
+3x3
 Capture only WHAT and WHY part.
 
 1. <details>
@@ -22,21 +22,31 @@ Capture only WHAT and WHY part.
         <summary>Report Types</summary>
         
         1.  <details>
-            <summary>Master DB</summary>
+            <summary>Tableau</summary>
+
+            1.  <details>
+                <summary>Master DB</summary>
+                Total Spend, Total Member Months, Risk
+                </details> 
+
+
             </details>
 
         2.  <details>
-            <summary>Panel Reports</summary>
+            <summary>Excel</summary>
+
+            1.  <details>
+                <summary>Financial Model</summary>
+                Total Spend, Total Member Months, Risk
+                </details> 
+
             </details>
 
         3.  <details>
-            <summary>Women's Health</summary>
+            <summary>PPT</summary>
             </details> 
 
-        4.  <details>
-            <summary>Financial Model</summary>
-            Total Spend, Total Member Months, Risk
-            </details>     
+            
 
         </details>
     - b
@@ -50,7 +60,12 @@ Capture only WHAT and WHY part.
     </details>
 2.  <details>
     <summary>SDOH Enrichment</summary>
-    Basically, enrich the members' details by adding SDoH scores
+    Basically, enrich the members' details by adding SDoH scores, it helps in their member outreach programs etc.
+
+    - basic process
+        - Get rosters from clients
+        - process the file
+        - send the file back to clients
     </details>
 
 
