@@ -71,11 +71,13 @@ Capture only WHAT and WHY part.
 
 3.  <details>
     <summary>UCSNPE</summary>
+    
     + reporting program k liye dashboards banana
     + power bi reports, ssrs reports
     + kuch logic ya views pehle se bane hote the
-     + baki hame banane hote the
-     + tableau ki doc se flat vs row heavy design dekho
+    + baki hame banane hote the
+    + tableau ki doc se flat vs row heavy design dekho
+    
     </details>
 
 
