@@ -1,6 +1,7 @@
 ## Projects at Optum
 3x3
 Capture only WHAT and WHY part.
+# Career Path: Analytics -> Reporting/BI -> CEO's Office -> Strategy
 
 1. <details>
     <summary>USC Keck</summary>
@@ -81,3 +82,8 @@ Capture only WHAT and WHY part.
     </details>
 
 
+<details>
+<summary>
+Details Below, Summary Above
+</summary>
+</details>
