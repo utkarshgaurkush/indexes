@@ -5,8 +5,8 @@
 
 	     1.	Financial Accounting and Control
 	     2.	Financial Aspects of Mergers and Acquisitions
-	     3.	Finance - I
-						4.	Finance - II
+	     3.	Financd One
+						4.	Finance Two
 						5.	Investment Analysis and Portfolio Management
 						6.	Management of Direct Taxes
 						7.	Management of Indirect Taxes
