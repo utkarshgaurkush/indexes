@@ -1,24 +1,22 @@
 ## Subjects
 
-1. <details> 
-<summary>
-Finance
-</summary>
+1.    <details> 
+      <summary> Finance </summary>
 
-	1.	Financial Accounting and Control
-	2.	Financial Aspects of Mergers and Acquisitions
-	3.	Finance - I
-	4.	Finance - II
-	5.	Investment Analysis and Portfolio Management
-	6.	Management of Direct Taxes
-	7.	Management of Indirect Taxes
-	8.	Managerial Accounting and Control
-	9.	Private Equity & Venture Capital
-	10.	Spreadsheet Modelling
-	11.	Thomson Reuters Commodities
-	12.	Treasury Management
+	     1.	Financial Accounting and Control
+	     2.	Financial Aspects of Mergers and Acquisitions
+	     3.	Finance - I
+						4.	Finance - II
+						5.	Investment Analysis and Portfolio Management
+						6.	Management of Direct Taxes
+						7.	Management of Indirect Taxes
+						8.	Managerial Accounting and Control
+						9.	Private Equity & Venture Capital
+					 10.	Spreadsheet Modelling
+						11.	Thomson Reuters Commodities
+						12.	Treasury Management
 
-</details>
+						</details>
 
 2. Marketing
 	13.	Business to Business Marketing
