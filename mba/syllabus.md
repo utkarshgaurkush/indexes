@@ -1,6 +1,10 @@
 ## Subjects
 
-1. Finance
+1. <details> 
+<summary>
+Finance
+</summary>
+
 	1.	Financial Accounting and Control
 	2.	Financial Aspects of Mergers and Acquisitions
 	3.	Finance - I
@@ -14,6 +18,7 @@
 	11.	Thomson Reuters Commodities
 	12.	Treasury Management
 
+</details>
 
 2. Marketing
 	13.	Business to Business Marketing
