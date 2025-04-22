@@ -93,9 +93,10 @@ basic it work- copy paste and customize, nobody builds from scrach
 -   PowerBI
 -   SSRS
 -   SQL
--   Jupyter
-    - har file ka lag processor
+-   <details> <summary> Jupyter </summary>
+    - har file ka alag processor
     - cell based, har file me cell execute karte hain, cell me code hai
+    </details>
     
 
 </details>
