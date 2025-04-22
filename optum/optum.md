@@ -94,8 +94,9 @@ basic it work- copy paste and customize, nobody builds from scrach
 -   SSRS
 -   SQL
 -   <details> <summary> Jupyter </summary>
-    - har file ka alag processor
-    - cell based, har file me cell execute karte hain, cell me code hai
+    -    har file ka alag processor
+    -    cell based, har file me cell execute karte hain, cell me code hai
+    
     </details>
     
 
