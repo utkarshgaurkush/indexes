@@ -85,6 +85,22 @@ basic it work- copy paste and customize, nobody builds from scrach
 
 
 <details>
+<summary>Technical tips</summary>
+
+-   Snowflake and Python : Check Data Engineering Simplified YT channel, puri playlist hai ek
+-   Excel
+-   Tableau
+-   PowerBI
+-   SSRS
+-   SQL
+
+</details>
+
+
+
+
+
+<details>
 <summary>
 Details Below, Summary Above
 </summary>
