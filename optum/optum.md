@@ -1,7 +1,9 @@
 ## Projects at Optum
 3x3
-Capture only WHAT and WHY part.
-# Career Path: Analytics -> Reporting/BI -> CEO's Office -> Strategy
+Capture only WHAT and WHY part in hindi.
+
+basic it work- copy paste and customize, nobody builds from scrach
+### Career Path: Analytics -> Reporting/BI -> CEO's Office -> Strategy
 
 1. <details>
     <summary>USC Keck</summary>
